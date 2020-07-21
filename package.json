@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/wdio ./wdio.conf.js"
+    "test": "./node_modules/.bin/wdio ./wdio.conf.js -t @Count",
+    "cucumber": "cucumber-js ./Cucumber_Test/Features -r ./Cucumber_Test/Step-Definitions"
   },
   "author": "",
   "license": "ISC",

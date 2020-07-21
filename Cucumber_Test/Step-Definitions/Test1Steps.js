@@ -2,9 +2,8 @@
 const { Given, When, Then, By } = require('cucumber');
 const assert = require ('assert');
 const webdriver = require('selenium-webdriver');
-const Gpage = require('C:\\Users\\marcu\\Desktop\\BasicTestFramework\\Cucumber_Test\\Page-Objects\\googleSearch');
+const Gpage = require('C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\Cucumber_Test\\Page-Objects\\googleSearch');
 
-// var driver = new webdriver.Builder().forBrowser('chrome').build();
 
 //  Given I have loaded Google
     Given('I have loaded Google', function () 
