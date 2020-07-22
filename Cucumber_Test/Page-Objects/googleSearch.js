@@ -44,8 +44,10 @@ module.exports =
             let parent2 = await parent1.$('..');
             let parent3 = await parent2.$('..');
             let parent4 = await parent3.$('..');
+            let child = await result.$(':first-child');
+            let att = await child.getAttribute('class');
             let tag = await parent4.getTagName();
-            if(tag == 'g-accordion-expander')
+            if(tag == 'g-accordion-expander' || att == 'cE3GYd vk_c')
             {
                 console.log('result is for another query, will be removed');
             }

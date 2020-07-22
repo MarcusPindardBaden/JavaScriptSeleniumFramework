@@ -9,6 +9,7 @@ const Gpage = require('C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\C
     Given('I have loaded Google', function () 
     {
         browser.url("/");
+        browser.maximizeWindow();
     });
 
 //  When I search for "selenium"

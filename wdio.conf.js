@@ -1,3 +1,5 @@
+const { fail } = require("assert")
+
 exports.config = {
     //
     // ====================
@@ -232,7 +234,16 @@ exports.config = {
     /**
      * Runs after a Cucumber scenario
      */
-    // afterScenario: function (uri, feature, scenario, result, sourceLocation, context) {
+    // afterScenario: function (uri, feature, scenario, result, sourceLocation, context) 
+    // {
+    //     if(scenario.status == fail)
+    //     {
+    //         console.log('keep browser open');
+    //     }
+    //     else
+    //     {
+    //         browser.closeWindow();
+    //     }
     // },
     /**
      * Runs after a Cucumber feature

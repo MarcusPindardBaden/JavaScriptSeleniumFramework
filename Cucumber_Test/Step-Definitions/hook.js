@@ -1,6 +1,8 @@
+const {After} = require('selenium-webdriver');
+
 module.exports = function() 
 {
-    this.After(function()
+    After(function()
     {
         return this.driver.quit();
     });
