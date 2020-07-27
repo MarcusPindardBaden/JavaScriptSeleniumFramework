@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "18ce19f8d16ea0fa9b6bfbd9a9a98138",
+    "name" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  } ]
+}

@@ -79,5 +79,19 @@ module.exports =
         console.log(extraList.length);
         const fullList = await organicList.concat(extraList);
         return fullList.length;
+    },
+
+    async CountingTabs() 
+    {
+        const navBar = await browser.$(google.navBar);
+        const visibleTabs = await navBar.$$(google.visibleTabs);
+        const focusTab = await navBar.$(google.inFocusTab);
+        await visibleTabs.push(focusTab);
+        const moreTabsButton = await browser.$(google.moreTabs);
+        await moreTabsButton.click();
+        const hiddenList = await browser.$$(google.extraTabsList);
+        const fullList = await visibleTabs.concat(hiddenList);
+        return fullList.length;
     }
+
 }

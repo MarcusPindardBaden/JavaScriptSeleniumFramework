@@ -1,6 +1,10 @@
-const { fail } = require("assert")
+const { fail } = require("assert");
+const { ReportAggregator, HtmlReporter} = require('@rpii/wdio-html-reporter');
+const log4js = require('@log4js-node/log4js-api');
+const logger = log4js.getLogger('default');
 
 exports.config = {
+    // import { ReportAggregator, HtmlReporter} from '@rpii/wdio-html-reporter',
     //
     // ====================
     // Runner Configuration
@@ -128,6 +132,30 @@ exports.config = {
     // The only one supported by default is 'dot'
     // see also: https://webdriver.io/docs/dot-reporter.html
     reporters: ['spec'],
+    reporters: [['allure', 
+    {
+        outputDir: 'allure-results',
+        disableWebdriverStepsReporting: true,
+        disableWebdriverScreenshotsReporting: true,
+    }]],
+        // [HtmlReporter,
+        //     {
+        //         debug: true,
+        //         outputDir: './reports/html-reports/',
+        //         filename: 'report.html',
+        //         reportTitle: 'Test Report Title',
+
+        //         // to show the report in a browser when done
+        //         showInBrowser: true,
+
+        //         // to tun on screenshots after every test
+        //         useOnAfterCommandForScreenshot: false,
+
+        //         // to initialise the logger
+        //         // LOG: log4j.getLogger("default")
+        // }
+
+        // ]],
 
 
     //
@@ -174,7 +202,17 @@ exports.config = {
      * @param {Object} config wdio configuration object
      * @param {Array.<Object>} capabilities list of capabilities details
      */
-    // onPrepare: function (config, capabilities) {
+    // onPrepare: function (config, capabilities) 
+    // {
+    //     let ReportAggregator = new ReportAggregator
+    //     ({
+    //         outputDir: './reports/html-reports/',
+    //         filename: 'master-report.html',
+    //         reportTitle: 'Master Report',
+    //         browserName: browser.capabilities.browserName,
+    //     })
+    //     ReportAggregator.clean();
+    //     global.reportAggregator = ReportAggregator;
     // },
     /**
      * Gets executed before a worker process is spawned and can be used to initialise specific service
@@ -285,7 +323,12 @@ exports.config = {
      * @param {Array.<Object>} capabilities list of capabilities details
      * @param {<Object>} results object containing test results
      */
-    // onComplete: function(exitCode, config, capabilities, results) {
+    // onComplete: function(exitCode, config, capabilities, results) 
+    // {
+    //     (async() => 
+    //     {
+    //         await global.reportAggregator.createReport();
+    //     })(); 
     // },
     /**
     * Gets executed when a refresh happens.
