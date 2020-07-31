@@ -1,0 +1,162 @@
+{
+  "uid" : "ba2ce282d462b621",
+  "name" : "Then there should only be \"10\" organic results for the \"largest gathering of vibes\"",
+  "fullName" : "Different counters on google search pages: User gets the same amount of actual results on every search.Then there should only be \"10\" organic results for the \"largest gathering of vibes\"",
+  "historyId" : "981bcdab8bbfeb4d0dfbd7f88a620ef5",
+  "time" : {
+    "start" : 1596206753882,
+    "stop" : 1596206754050,
+    "duration" : 168
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then there should only be \"10\" organic results for the \"largest gathering of vibes\""
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.19041"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6968aa1eabd767a7",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596206729909,
+        "stop" : 1596206729909,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "228b3c915a0b9f98",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596206446819,
+        "stop" : 1596206446819,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c4c5d4562cedf971",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596206396847,
+        "stop" : 1596206396848,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "c7da0e4e2a1a6357",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596202109802,
+        "stop" : 1596202109978,
+        "duration" : 176
+      }
+    }, {
+      "uid" : "79efe0d5fa5d4e80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596107111371,
+        "stop" : 1596107122960,
+        "duration" : 11589
+      }
+    }, {
+      "uid" : "e088a1e19b444057",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596031001376,
+        "stop" : 1596031001533,
+        "duration" : 157
+      }
+    }, {
+      "uid" : "a794bd7f1b24d1d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596030116284,
+        "stop" : 1596030116618,
+        "duration" : 334
+      }
+    }, {
+      "uid" : "a36630d26f6787b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596029305133,
+        "stop" : 1596029316091,
+        "duration" : 10958
+      }
+    }, {
+      "uid" : "79e94ef3e100aa2e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596029259219,
+        "stop" : 1596029259219,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "be5f4cab495b0f1c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596028541563,
+        "stop" : 1596028541563,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d35d296c54f6afe5",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596028459814,
+        "stop" : 1596028459814,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4ad8439139b1dc0c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596027688265,
+        "stop" : 1596027688265,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "912bbe418f92a550",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596021704872,
+        "stop" : 1596021704872,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ba2ce282d462b621.json",
+  "parameterValues" : [ "Chrome-10.0.19041" ]
+}

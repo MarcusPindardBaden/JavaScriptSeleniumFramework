@@ -12,6 +12,7 @@ exports.config = {
     //
     // WebdriverIO allows it to run your tests in arbitrary locations (e.g. locally or
     // on a remote machine).
+    // runner: 'http://localhost:4444/wd/hub',
     runner: 'local',
     //
     // ==================
@@ -59,7 +60,7 @@ exports.config = {
         maxInstances: 5,
         //
         browserName: 'chrome',
-        acceptInsecureCerts: true
+        acceptInsecureCerts: true,
         // If outputDir is provided WebdriverIO can capture driver session logs
         // it is possible to configure which logTypes to include/exclude.
         // excludeDriverLogs: ['*'], // pass '*' to exclude all driver session logs
@@ -113,6 +114,7 @@ exports.config = {
     // your test setup with almost no effort. Unlike plugins, they don't add new
     // commands. Instead, they hook themselves up into the test process.
     services: ['chromedriver'],
+    // services: ['docker'],
     
     // Framework you want to run your specs with.
     // The following are supported: Mocha, Jasmine, and Cucumber
@@ -182,7 +184,7 @@ exports.config = {
         // <boolean> fail if there are any undefined or pending steps
         strict: false,
         // <string> (expression) only execute the features or scenarios with tags matching the expression
-        tagExpression: '@Count',
+        // tagExpression: '@Count', 
         // <number> timeout for step definitions
         timeout: 60000,
         // <boolean> Enable this config to treat undefined definitions as warnings.
@@ -337,4 +339,14 @@ exports.config = {
     */
     //onReload: function(oldSessionId, newSessionId) {
     //}
+    dockerLogs: './logs',
+    dockerOptions: {
+        image: 'selenium/standalone-chrome',
+        healthCheck: 'http://localhost:4444',
+        options: 
+        {
+            p:['4444:4444'],
+            shmSize: '2g'
+        }
+    }
 }

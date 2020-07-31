@@ -1,0 +1,56 @@
+{
+  "uid" : "a4004551136e0536",
+  "name" : "Given I have loaded Google",
+  "fullName" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search.Given I have loaded Google",
+  "historyId" : "3d62cc6f4cc546839bfa764b05be725a",
+  "time" : {
+    "start" : 1596020771772,
+    "stop" : 1596020771973,
+    "duration" : 201
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I have loaded Google"
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a4004551136e0536.json",
+  "parameterValues" : [ "chrome" ]
+}

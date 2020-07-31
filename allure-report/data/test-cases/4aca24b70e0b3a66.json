@@ -1,0 +1,56 @@
+{
+  "uid" : "4aca24b70e0b3a66",
+  "name" : "Then there should always be \"9\" sub tabs to go between",
+  "fullName" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search.Then there should always be \"9\" sub tabs to go between",
+  "historyId" : "86a0369a16ff03dcaa860c440360a677",
+  "time" : {
+    "start" : 1596206397855,
+    "stop" : 1596206397855,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then there should always be \"9\" sub tabs to go between"
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.19041"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4aca24b70e0b3a66.json",
+  "parameterValues" : [ "Chrome-10.0.19041" ]
+}

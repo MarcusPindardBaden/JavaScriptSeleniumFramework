@@ -16,6 +16,7 @@ const elements = require('C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework
     {
         const numberOfResults = await Gpage.getOrganicList(string2);
         assert.equal(numberOfResults, string);
+        console.log("test finished");
     });
 
 //  Then there should always be "9" sub tabs to go between
@@ -24,4 +25,5 @@ const elements = require('C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework
         await Gpage.waitForDisplay(elements.firstResult);
         const actualNumber = await Gpage.CountingTabs();
         assert.equal(actualNumber, string);
+        console.log("test finished");
     });

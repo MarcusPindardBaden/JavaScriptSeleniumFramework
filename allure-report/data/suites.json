@@ -2,80 +2,595 @@
   "uid" : "98d3104e051c652961429bf95fa0b5d6",
   "name" : "suites",
   "children" : [ {
-    "name" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search",
+    "name" : "user loads google: user loads up google and searches for Selenium",
     "children" : [ {
-      "name" : "When I search for a \"pizzagate\"",
-      "uid" : "ed1263fef2d643b1",
-      "parentUid" : "18ce19f8d16ea0fa9b6bfbd9a9a98138",
+      "name" : "Given I have loaded Google",
+      "uid" : "212a5fbe6eb27c1b",
+      "parentUid" : "45515c1392fca0779fb57e0e77d6b7bf",
       "status" : "passed",
       "time" : {
-        "start" : 1595865492482,
-        "stop" : 1595865493131,
-        "duration" : 649
+        "start" : 1596206744318,
+        "stop" : 1596206744320,
+        "duration" : 2
       },
       "flaky" : false,
       "newFailed" : false,
-      "parameters" : [ "chrome" ]
+      "parameters" : [ "Chrome-10.0.19041" ]
     }, {
-      "name" : "When I search for a \"the crust of a creme brulee\"",
-      "uid" : "943b7ee328775bf2",
-      "parentUid" : "18ce19f8d16ea0fa9b6bfbd9a9a98138",
+      "name" : "When I search for \"selenium\"",
+      "uid" : "9546132b6728cb3b",
+      "parentUid" : "45515c1392fca0779fb57e0e77d6b7bf",
       "status" : "passed",
       "time" : {
-        "start" : 1595865493493,
-        "stop" : 1595865494339,
-        "duration" : 846
+        "start" : 1596206744320,
+        "stop" : 1596206748738,
+        "duration" : 4418
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.19041" ]
+    }, {
+      "name" : "Then the first result is \"The Selenium Browser Automation Project :: Documentation ...\"",
+      "uid" : "7236d3cf95149b61",
+      "parentUid" : "45515c1392fca0779fb57e0e77d6b7bf",
+      "status" : "failed",
+      "time" : {
+        "start" : 1596206748738,
+        "stop" : 1596206750762,
+        "duration" : 2024
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.19041" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "b35d0ad61e801d1d",
+      "parentUid" : "45515c1392fca0779fb57e0e77d6b7bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596206750763,
+        "stop" : 1596206750763,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.19041" ]
+    }, {
+      "name" : "Then the first result is \"The Selenium Browser Automation Project :: Documentation ...\"",
+      "uid" : "9de802c0965aea1b",
+      "parentUid" : "45515c1392fca0779fb57e0e77d6b7bf",
+      "status" : "failed",
+      "time" : {
+        "start" : 1596207170138,
+        "stop" : 1596207172170,
+        "duration" : 2032
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "Given I have loaded Google",
-      "uid" : "7a78d76cdb5bf1a0",
-      "parentUid" : "18ce19f8d16ea0fa9b6bfbd9a9a98138",
+      "uid" : "c754ff89c6927302",
+      "parentUid" : "45515c1392fca0779fb57e0e77d6b7bf",
       "status" : "passed",
       "time" : {
-        "start" : 1595865494431,
-        "stop" : 1595865494635,
-        "duration" : 204
+        "start" : 1596207404534,
+        "stop" : 1596207404538,
+        "duration" : 4
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome" ]
     }, {
-      "name" : "When I search for a \"How to make something sound cool\"",
-      "uid" : "718eb1691685f5af",
-      "parentUid" : "18ce19f8d16ea0fa9b6bfbd9a9a98138",
+      "name" : "When I search for \"selenium\"",
+      "uid" : "2db18d49bf40afec",
+      "parentUid" : "45515c1392fca0779fb57e0e77d6b7bf",
       "status" : "passed",
       "time" : {
-        "start" : 1595865494635,
-        "stop" : 1595865495384,
-        "duration" : 749
+        "start" : 1596207404538,
+        "stop" : 1596207406820,
+        "duration" : 2282
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome" ]
     }, {
-      "name" : "Then there should always be \"9\" sub tabs to go between",
-      "uid" : "5d5836dec11b8f87",
-      "parentUid" : "18ce19f8d16ea0fa9b6bfbd9a9a98138",
+      "name" : "Then the first result is \"Selenium: Uses, Side Effects, Interactions, Dosage, and Warning\"",
+      "uid" : "b4d12730254afd82",
+      "parentUid" : "45515c1392fca0779fb57e0e77d6b7bf",
       "status" : "passed",
       "time" : {
-        "start" : 1595865495384,
-        "stop" : 1595865495469,
-        "duration" : 85
+        "start" : 1596207406820,
+        "stop" : 1596207408874,
+        "duration" : 2054
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "Hook",
-      "uid" : "2526bf90f3a52841",
+      "uid" : "74ec38cf77dc9882",
+      "parentUid" : "45515c1392fca0779fb57e0e77d6b7bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596207408874,
+        "stop" : 1596207408874,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "45515c1392fca0779fb57e0e77d6b7bf"
+  }, {
+    "name" : "Different counters on google search pages: User gets the same amount of actual results on every search",
+    "children" : [ {
+      "name" : "When I search for a \"adorable big dogs\"",
+      "uid" : "163850ba155728f6",
+      "parentUid" : "0c6552ee1825607e4130b7e8ddf1f721",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596206744320,
+        "stop" : 1596206748604,
+        "duration" : 4284
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.19041" ]
+    }, {
+      "name" : "Then there should only be \"10\" organic results for the \"adorable big dogs\"",
+      "uid" : "37439745cdc8f6ab",
+      "parentUid" : "0c6552ee1825607e4130b7e8ddf1f721",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596206748604,
+        "stop" : 1596206748887,
+        "duration" : 283
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.19041" ]
+    }, {
+      "name" : "When I search for a \"frighteningly large spiders\"",
+      "uid" : "6e5b9804ecdbc83a",
+      "parentUid" : "0c6552ee1825607e4130b7e8ddf1f721",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596206748895,
+        "stop" : 1596206749957,
+        "duration" : 1062
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.19041" ]
+    }, {
+      "name" : "Then there should only be \"10\" organic results for the \"frighteningly large spiders\"",
+      "uid" : "337f61cbd90d2de0",
+      "parentUid" : "0c6552ee1825607e4130b7e8ddf1f721",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596206749957,
+        "stop" : 1596206750191,
+        "duration" : 234
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.19041" ]
+    }, {
+      "name" : "When I search for a \"how far can you throw mud\"",
+      "uid" : "19c4272bd13f953f",
+      "parentUid" : "0c6552ee1825607e4130b7e8ddf1f721",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596206750195,
+        "stop" : 1596206751101,
+        "duration" : 906
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.19041" ]
+    }, {
+      "name" : "Then there should only be \"10\" organic results for the \"how far can you throw mud\"",
+      "uid" : "904a1465ad97f275",
+      "parentUid" : "0c6552ee1825607e4130b7e8ddf1f721",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596206751101,
+        "stop" : 1596206751273,
+        "duration" : 172
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.19041" ]
+    }, {
+      "name" : "When I search for a \"home\"",
+      "uid" : "78714467f78c812e",
+      "parentUid" : "0c6552ee1825607e4130b7e8ddf1f721",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596206751277,
+        "stop" : 1596206752745,
+        "duration" : 1468
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.19041" ]
+    }, {
+      "name" : "Then there should only be \"10\" organic results for the \"home\"",
+      "uid" : "804b9d7052593191",
+      "parentUid" : "0c6552ee1825607e4130b7e8ddf1f721",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596206752745,
+        "stop" : 1596206752908,
+        "duration" : 163
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.19041" ]
+    }, {
+      "name" : "Given I have loaded Google",
+      "uid" : "64d87a07aad55e00",
+      "parentUid" : "0c6552ee1825607e4130b7e8ddf1f721",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596206752911,
+        "stop" : 1596206752913,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.19041" ]
+    }, {
+      "name" : "When I search for a \"largest gathering of vibes\"",
+      "uid" : "88589f8d38b1eccc",
+      "parentUid" : "0c6552ee1825607e4130b7e8ddf1f721",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596206752913,
+        "stop" : 1596206753882,
+        "duration" : 969
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.19041" ]
+    }, {
+      "name" : "Then there should only be \"10\" organic results for the \"largest gathering of vibes\"",
+      "uid" : "ba2ce282d462b621",
+      "parentUid" : "0c6552ee1825607e4130b7e8ddf1f721",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596206753882,
+        "stop" : 1596206754050,
+        "duration" : 168
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.19041" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "a27676ff6c029fa8",
+      "parentUid" : "0c6552ee1825607e4130b7e8ddf1f721",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596206754050,
+        "stop" : 1596206754050,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.19041" ]
+    }, {
+      "name" : "When I search for a \"adorable big dogs\"",
+      "uid" : "99bee0095504500b",
+      "parentUid" : "0c6552ee1825607e4130b7e8ddf1f721",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596207404538,
+        "stop" : 1596207406840,
+        "duration" : 2302
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then there should only be \"10\" organic results for the \"adorable big dogs\"",
+      "uid" : "cd5ad7410f89ea13",
+      "parentUid" : "0c6552ee1825607e4130b7e8ddf1f721",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596207406840,
+        "stop" : 1596207407533,
+        "duration" : 693
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I search for a \"frighteningly large spiders\"",
+      "uid" : "fe4b4ed27da2ba4e",
+      "parentUid" : "0c6552ee1825607e4130b7e8ddf1f721",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596207407542,
+        "stop" : 1596207408653,
+        "duration" : 1111
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then there should only be \"10\" organic results for the \"frighteningly large spiders\"",
+      "uid" : "dd2fe512fff70978",
+      "parentUid" : "0c6552ee1825607e4130b7e8ddf1f721",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596207408653,
+        "stop" : 1596207409377,
+        "duration" : 724
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I search for a \"how far can you throw mud\"",
+      "uid" : "b0111b4c114429cd",
+      "parentUid" : "0c6552ee1825607e4130b7e8ddf1f721",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596207409382,
+        "stop" : 1596207410232,
+        "duration" : 850
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then there should only be \"10\" organic results for the \"how far can you throw mud\"",
+      "uid" : "d65d017df5e88401",
+      "parentUid" : "0c6552ee1825607e4130b7e8ddf1f721",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596207410232,
+        "stop" : 1596207410704,
+        "duration" : 472
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I search for a \"home\"",
+      "uid" : "b2c76d10b45b4041",
+      "parentUid" : "0c6552ee1825607e4130b7e8ddf1f721",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596207410709,
+        "stop" : 1596207412507,
+        "duration" : 1798
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then there should only be \"10\" organic results for the \"home\"",
+      "uid" : "8848925dbe4a12c3",
+      "parentUid" : "0c6552ee1825607e4130b7e8ddf1f721",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596207412507,
+        "stop" : 1596207412958,
+        "duration" : 451
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I have loaded Google",
+      "uid" : "b72a3e00a1c85afe",
+      "parentUid" : "0c6552ee1825607e4130b7e8ddf1f721",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596207412961,
+        "stop" : 1596207412961,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I search for a \"largest gathering of vibes\"",
+      "uid" : "e87b19443a83a76d",
+      "parentUid" : "0c6552ee1825607e4130b7e8ddf1f721",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596207412961,
+        "stop" : 1596207413883,
+        "duration" : 922
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then there should only be \"10\" organic results for the \"largest gathering of vibes\"",
+      "uid" : "e3d94b9b25710201",
+      "parentUid" : "0c6552ee1825607e4130b7e8ddf1f721",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596207413883,
+        "stop" : 1596207414325,
+        "duration" : 442
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "32b17582dff97877",
+      "parentUid" : "0c6552ee1825607e4130b7e8ddf1f721",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596207414326,
+        "stop" : 1596207414326,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "0c6552ee1825607e4130b7e8ddf1f721"
+  }, {
+    "name" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search",
+    "children" : [ {
+      "name" : "When I search for a \"pizzagate\"",
+      "uid" : "4294760454c1e243",
       "parentUid" : "18ce19f8d16ea0fa9b6bfbd9a9a98138",
       "status" : "passed",
       "time" : {
-        "start" : 1595865495469,
-        "stop" : 1595865495469,
+        "start" : 1596206754054,
+        "stop" : 1596206754825,
+        "duration" : 771
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.19041" ]
+    }, {
+      "name" : "When I search for a \"the crust of a creme brulee\"",
+      "uid" : "d15106dd0e2d939f",
+      "parentUid" : "18ce19f8d16ea0fa9b6bfbd9a9a98138",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596206754865,
+        "stop" : 1596206755879,
+        "duration" : 1014
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.19041" ]
+    }, {
+      "name" : "Given I have loaded Google",
+      "uid" : "5a06e62deb7ee87a",
+      "parentUid" : "18ce19f8d16ea0fa9b6bfbd9a9a98138",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596206755944,
+        "stop" : 1596206755944,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.19041" ]
+    }, {
+      "name" : "When I search for a \"How to make something sound cool\"",
+      "uid" : "dac4466e1771b768",
+      "parentUid" : "18ce19f8d16ea0fa9b6bfbd9a9a98138",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596206755944,
+        "stop" : 1596206756931,
+        "duration" : 987
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.19041" ]
+    }, {
+      "name" : "Then there should always be \"9\" sub tabs to go between",
+      "uid" : "6fb194319bcd3793",
+      "parentUid" : "18ce19f8d16ea0fa9b6bfbd9a9a98138",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596206756931,
+        "stop" : 1596206756982,
+        "duration" : 51
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.19041" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "912439d1d976d2ca",
+      "parentUid" : "18ce19f8d16ea0fa9b6bfbd9a9a98138",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596206756982,
+        "stop" : 1596206756982,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.19041" ]
+    }, {
+      "name" : "When I search for a \"pizzagate\"",
+      "uid" : "f9dd5d47b67adfb1",
+      "parentUid" : "18ce19f8d16ea0fa9b6bfbd9a9a98138",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596207414330,
+        "stop" : 1596207415238,
+        "duration" : 908
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I search for a \"the crust of a creme brulee\"",
+      "uid" : "b5151f5138384cd2",
+      "parentUid" : "18ce19f8d16ea0fa9b6bfbd9a9a98138",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596207415335,
+        "stop" : 1596207416515,
+        "duration" : 1180
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I have loaded Google",
+      "uid" : "36f89aea884cf2fd",
+      "parentUid" : "18ce19f8d16ea0fa9b6bfbd9a9a98138",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596207416598,
+        "stop" : 1596207416599,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I search for a \"How to make something sound cool\"",
+      "uid" : "ec17c9e50e6a4ceb",
+      "parentUid" : "18ce19f8d16ea0fa9b6bfbd9a9a98138",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596207416599,
+        "stop" : 1596207417604,
+        "duration" : 1005
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then there should always be \"9\" sub tabs to go between",
+      "uid" : "b648e3e15f9216eb",
+      "parentUid" : "18ce19f8d16ea0fa9b6bfbd9a9a98138",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596207417604,
+        "stop" : 1596207417688,
+        "duration" : 84
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "f5667b9c9fcb430a",
+      "parentUid" : "18ce19f8d16ea0fa9b6bfbd9a9a98138",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596207417688,
+        "stop" : 1596207417688,
         "duration" : 0
       },
       "flaky" : false,

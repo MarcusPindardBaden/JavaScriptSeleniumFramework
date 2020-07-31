@@ -1,0 +1,162 @@
+{
+  "uid" : "19c4272bd13f953f",
+  "name" : "When I search for a \"how far can you throw mud\"",
+  "fullName" : "Different counters on google search pages: User gets the same amount of actual results on every search.When I search for a \"how far can you throw mud\"",
+  "historyId" : "8baa8a32caf6bc0a1ab7dd70ce06e5da",
+  "time" : {
+    "start" : 1596206750195,
+    "stop" : 1596206751101,
+    "duration" : 906
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I search for a \"how far can you throw mud\""
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.19041"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "17ad44776fa9ab3f",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596206729901,
+        "stop" : 1596206729901,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "234167a96b16ad35",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596206446811,
+        "stop" : 1596206446811,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "92b8c7094185f701",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596206395852,
+        "stop" : 1596206395852,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "867ec478f049483",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596202106466,
+        "stop" : 1596202107100,
+        "duration" : 634
+      }
+    }, {
+      "uid" : "263c0958e6116686",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596107107288,
+        "stop" : 1596107108012,
+        "duration" : 724
+      }
+    }, {
+      "uid" : "d1ea3a78d37d9ea6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596030997506,
+        "stop" : 1596030998183,
+        "duration" : 677
+      }
+    }, {
+      "uid" : "a710ed1381ead9c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596030053133,
+        "stop" : 1596030053813,
+        "duration" : 680
+      }
+    }, {
+      "uid" : "b5355cf6758c04fb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596029301444,
+        "stop" : 1596029302287,
+        "duration" : 843
+      }
+    }, {
+      "uid" : "8febf50863ce9531",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596029258817,
+        "stop" : 1596029258817,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "fc197ca81f55a46f",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596028541121,
+        "stop" : 1596028541121,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e569e693afc03751",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596028459390,
+        "stop" : 1596028459390,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "818b3ac0c30f3513",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596027687870,
+        "stop" : 1596027687870,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4d719a258e1e1c90",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596021704501,
+        "stop" : 1596021704501,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "19c4272bd13f953f.json",
+  "parameterValues" : [ "Chrome-10.0.19041" ]
+}

@@ -1,0 +1,162 @@
+{
+  "uid" : "78714467f78c812e",
+  "name" : "When I search for a \"home\"",
+  "fullName" : "Different counters on google search pages: User gets the same amount of actual results on every search.When I search for a \"home\"",
+  "historyId" : "b4c32c61480891084a58a7ce31284367",
+  "time" : {
+    "start" : 1596206751277,
+    "stop" : 1596206752745,
+    "duration" : 1468
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I search for a \"home\""
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.19041"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a4f1aab81bf22c70",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596206729905,
+        "stop" : 1596206729905,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "fe4e3f1aa2fea359",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596206446815,
+        "stop" : 1596206446815,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "2f6c624564b39075",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596206396348,
+        "stop" : 1596206396348,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5d82f32db6cc38eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596202107431,
+        "stop" : 1596202108726,
+        "duration" : 1295
+      }
+    }, {
+      "uid" : "57c3d7d276e6fd14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596107108669,
+        "stop" : 1596107109921,
+        "duration" : 1252
+      }
+    }, {
+      "uid" : "7dd76c21ea748d51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596030998676,
+        "stop" : 1596031000001,
+        "duration" : 1325
+      }
+    }, {
+      "uid" : "6ef487fe59652a99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596030054234,
+        "stop" : 1596030055321,
+        "duration" : 1087
+      }
+    }, {
+      "uid" : "6524b3d38f961751",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596029302643,
+        "stop" : 1596029303867,
+        "duration" : 1224
+      }
+    }, {
+      "uid" : "2f873fdaed4b0ec",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596029259015,
+        "stop" : 1596029259015,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "2bbabbf88ac0fa2a",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596028541335,
+        "stop" : 1596028541335,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f45fffb3eeb466b",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596028459595,
+        "stop" : 1596028459595,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d0fe673f0bca2472",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596027688073,
+        "stop" : 1596027688073,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d47fed369f14edfc",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596021704701,
+        "stop" : 1596021704701,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "78714467f78c812e.json",
+  "parameterValues" : [ "Chrome-10.0.19041" ]
+}

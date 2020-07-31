@@ -1,0 +1,98 @@
+{
+  "uid" : "d15106dd0e2d939f",
+  "name" : "When I search for a \"the crust of a creme brulee\"",
+  "fullName" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search.When I search for a \"the crust of a creme brulee\"",
+  "historyId" : "5da5546bc8ffeba23ae33fb255721b32",
+  "time" : {
+    "start" : 1596206754865,
+    "stop" : 1596206755879,
+    "duration" : 1014
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I search for a \"the crust of a creme brulee\""
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.19041"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b154d8d079abc66f",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596206729916,
+        "stop" : 1596206729916,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "71329d55567bfa2",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596206446826,
+        "stop" : 1596206446826,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "653872836e6c82d0",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596206397855,
+        "stop" : 1596206397855,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "851de6abca2fb6c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596202110930,
+        "stop" : 1596202111835,
+        "duration" : 905
+      }
+    }, {
+      "uid" : "2350f17bbb74bae9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596020670148,
+        "stop" : 1596020670149,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d15106dd0e2d939f.json",
+  "parameterValues" : [ "Chrome-10.0.19041" ]
+}

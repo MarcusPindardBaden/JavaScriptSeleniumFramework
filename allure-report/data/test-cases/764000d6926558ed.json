@@ -1,0 +1,56 @@
+{
+  "uid" : "764000d6926558ed",
+  "name" : "When I search for a \"adorable big dogs\"",
+  "fullName" : "Different counters on google search pages: User gets the same amount of actual results on every search.When I search for a \"adorable big dogs\"",
+  "historyId" : "48e164aa9009a382bc020f503683540",
+  "time" : {
+    "start" : 1596030050388,
+    "stop" : 1596030051424,
+    "duration" : 1036
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I search for a \"adorable big dogs\""
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.19041"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "764000d6926558ed.json",
+  "parameterValues" : [ "Chrome-10.0.19041" ]
+}

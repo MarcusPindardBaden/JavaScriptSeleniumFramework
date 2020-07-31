@@ -1,0 +1,234 @@
+{
+  "uid" : "f9dd5d47b67adfb1",
+  "name" : "When I search for a \"pizzagate\"",
+  "fullName" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search.When I search for a \"pizzagate\"",
+  "historyId" : "d8ea34c6d81ede6525c142873d4c0ce7",
+  "time" : {
+    "start" : 1596207414330,
+    "stop" : 1596207415238,
+    "duration" : 908
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I search for a \"pizzagate\""
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3aa8e1f095477ddf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596206836489,
+        "stop" : 1596206837304,
+        "duration" : 815
+      }
+    }, {
+      "uid" : "58ecb6f950b5a526",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596205389365,
+        "stop" : 1596205389991,
+        "duration" : 626
+      }
+    }, {
+      "uid" : "bd09f8da22d421e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596205144253,
+        "stop" : 1596205145009,
+        "duration" : 756
+      }
+    }, {
+      "uid" : "698cbadb2786adac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596204863297,
+        "stop" : 1596204863905,
+        "duration" : 608
+      }
+    }, {
+      "uid" : "96279bd2f6667b13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596202860904,
+        "stop" : 1596202861705,
+        "duration" : 801
+      }
+    }, {
+      "uid" : "bbf390b9ecaa34ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596202742934,
+        "stop" : 1596202743553,
+        "duration" : 619
+      }
+    }, {
+      "uid" : "b7a9302c231b65ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596202037175,
+        "stop" : 1596202037777,
+        "duration" : 602
+      }
+    }, {
+      "uid" : "7c13d0e94e988de9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596201528643,
+        "stop" : 1596201529286,
+        "duration" : 643
+      }
+    }, {
+      "uid" : "2d1c4da7cacf5342",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596021043083,
+        "stop" : 1596021043693,
+        "duration" : 610
+      }
+    }, {
+      "uid" : "70a013af983d4fc3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596020771973,
+        "stop" : 1596020772614,
+        "duration" : 641
+      }
+    }, {
+      "uid" : "a8d6434211351ef1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595865492482,
+        "stop" : 1595865493131,
+        "duration" : 649
+      }
+    }, {
+      "uid" : "3c915a4a6c80f040",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595865418037,
+        "stop" : 1595865418731,
+        "duration" : 694
+      }
+    }, {
+      "uid" : "3c7caea6fb2fea50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595865322430,
+        "stop" : 1595865323113,
+        "duration" : 683
+      }
+    }, {
+      "uid" : "c96f06a52be787a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595865269562,
+        "stop" : 1595865270325,
+        "duration" : 763
+      }
+    }, {
+      "uid" : "ca72fd8a7514382d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595865169706,
+        "stop" : 1595865170352,
+        "duration" : 646
+      }
+    }, {
+      "uid" : "81df36f6c1fad077",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595865089992,
+        "stop" : 1595865090643,
+        "duration" : 651
+      }
+    }, {
+      "uid" : "33dc5c92ce98d3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595864956255,
+        "stop" : 1595864956945,
+        "duration" : 690
+      }
+    }, {
+      "uid" : "c6efff28a824b4bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595864461000,
+        "stop" : 1595864461618,
+        "duration" : 618
+      }
+    }, {
+      "uid" : "90597f70a9655008",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595864437294,
+        "stop" : 1595864437952,
+        "duration" : 658
+      }
+    }, {
+      "uid" : "89e4abb0045ef81",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595864320723,
+        "stop" : 1595864321393,
+        "duration" : 670
+      }
+    }, {
+      "uid" : "2f490387cb73ff48",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595864096535,
+        "stop" : 1595864097227,
+        "duration" : 692
+      }
+    }, {
+      "uid" : "fd26777cb1da3e6b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595862968071,
+        "stop" : 1595862968774,
+        "duration" : 703
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f9dd5d47b67adfb1.json",
+  "parameterValues" : [ "chrome" ]
+}

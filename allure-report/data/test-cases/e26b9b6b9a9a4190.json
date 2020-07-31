@@ -1,0 +1,56 @@
+{
+  "uid" : "e26b9b6b9a9a4190",
+  "name" : "Then there should only be \"10\" organic results for the \"how far can you throw mud\"",
+  "fullName" : "Different counters on google search pages: User gets the same amount of actual results on every search.Then there should only be \"10\" organic results for the \"how far can you throw mud\"",
+  "historyId" : "b75b8b14ab7177296958a385853676c9",
+  "time" : {
+    "start" : 1596206446811,
+    "stop" : 1596206446811,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then there should only be \"10\" organic results for the \"how far can you throw mud\""
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.19041"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e26b9b6b9a9a4190.json",
+  "parameterValues" : [ "Chrome-10.0.19041" ]
+}

@@ -1,0 +1,86 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1596206446790' stop='1596206446798'>
+    <name>Different counters on google search pages: User gets the same amount of actual results on every search</name>
+    <title>Different counters on google search pages: User gets the same amount of actual results on every search</title>
+    <test-cases>
+        <test-case start='1596206446790' status='passed' stop='1596206446791'>
+            <name>Hook</name>
+            <title>Hook</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='Chrome-10.0.19041'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1596206446792' status='broken' stop='1596206446795'>
+            <name>Given I have loaded Google</name>
+            <title>Given I have loaded Google</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='Chrome-10.0.19041'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Command "maximizeWindow" is not yet implemented</message>
+                <stack-trace>Error: Command "maximizeWindow" is not yet implemented
+                    at Browser.retries (C:\Users\marcu\Desktop\JavaScriptSeleniumFramework\node_modules\devtools\build\devtoolsdriver.js:75:15)
+                    at Browser.wrapCommandFn (C:\Users\marcu\Desktop\JavaScriptSeleniumFramework\node_modules\@wdio\sync\build\wrapCommand.js:54:17)
+                    at World.&lt;anonymous> (C:\Users\marcu\Desktop\JavaScriptSeleniumFramework\Cucumber_Test\Step-Definitions\Test1Steps.js:12:23)
+                    at World.executeAsync (C:\Users\marcu\Desktop\JavaScriptSeleniumFramework\node_modules\@wdio\utils\build\shim.js:123:21)
+                    at World.testFrameworkFnWrapper (C:\Users\marcu\Desktop\JavaScriptSeleniumFramework\node_modules\@wdio\utils\build\test-framework\testFnWrapper.js:49:28)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1596206446796' status='pending' stop='1596206446796'>
+            <name>When I search for a "adorable big dogs"</name>
+            <title>When I search for a "adorable big dogs"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='Chrome-10.0.19041'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1596206446796' status='pending' stop='1596206446796'>
+            <name>Then there should only be "10" organic results for the "adorable big dogs"</name>
+            <title>Then there should only be "10" organic results for the "adorable big dogs"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='Chrome-10.0.19041'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1596206446797' status='passed' stop='1596206446798'>
+            <name>Hook</name>
+            <title>Hook</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='Chrome-10.0.19041'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

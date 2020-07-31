@@ -1,0 +1,56 @@
+{
+  "uid" : "7ce9e21adc3ba2d",
+  "name" : "Hook",
+  "fullName" : "user loads google: user loads up google and searches for Selenium.Hook",
+  "historyId" : "a2453fc1b8084f9ca13c0e4a33ddc462",
+  "time" : {
+    "start" : 1596206446790,
+    "stop" : 1596206446791,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testClass",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.19041"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7ce9e21adc3ba2d.json",
+  "parameterValues" : [ "Chrome-10.0.19041" ]
+}

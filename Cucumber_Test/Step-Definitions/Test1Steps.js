@@ -6,10 +6,10 @@ const Gpage = require('C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\C
 
 
 //  Given I have loaded Google
-    Given('I have loaded Google', function () 
+    Given('I have loaded Google', async () => 
     {
         browser.url("/");
-        browser.maximizeWindow();
+        // await browser.maximizeWindow();
     });
 
 //  When I search for "selenium"
@@ -22,5 +22,7 @@ const Gpage = require('C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\C
     Then('the first result is {string}', async (string) =>
     {
         const firstTitle = await Gpage.returnFirstTitle();
+        console.log(firstTitle);
         assert.equal(firstTitle, string);
+        console.log("test finished");
     });

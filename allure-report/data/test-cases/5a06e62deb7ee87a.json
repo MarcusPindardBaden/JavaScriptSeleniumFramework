@@ -1,0 +1,206 @@
+{
+  "uid" : "5a06e62deb7ee87a",
+  "name" : "Given I have loaded Google",
+  "fullName" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search.Given I have loaded Google",
+  "historyId" : "abd7d3e25f884004a2a20cb2fe06a591",
+  "time" : {
+    "start" : 1596206755944,
+    "stop" : 1596206755944,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I have loaded Google"
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.19041"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e42067f72158dd33",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596206754864,
+        "stop" : 1596206754865,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "1e856fd5ea454b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596206754054,
+        "stop" : 1596206754054,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "90e666364701144e",
+      "status" : "broken",
+      "statusDetails" : "Command \"maximizeWindow\" is not yet implemented",
+      "time" : {
+        "start" : 1596206729920,
+        "stop" : 1596206729921,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "eec4dbaed4590e31",
+      "status" : "broken",
+      "statusDetails" : "Command \"maximizeWindow\" is not yet implemented",
+      "time" : {
+        "start" : 1596206729915,
+        "stop" : 1596206729916,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "63f7861f84e15e00",
+      "status" : "broken",
+      "statusDetails" : "Command \"maximizeWindow\" is not yet implemented",
+      "time" : {
+        "start" : 1596206729912,
+        "stop" : 1596206729912,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9d8ef3cdf5c641a1",
+      "status" : "broken",
+      "statusDetails" : "Command \"maximizeWindow\" is not yet implemented",
+      "time" : {
+        "start" : 1596206446830,
+        "stop" : 1596206446831,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "510909d02b20545a",
+      "status" : "broken",
+      "statusDetails" : "Command \"maximizeWindow\" is not yet implemented",
+      "time" : {
+        "start" : 1596206446826,
+        "stop" : 1596206446826,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "fb2754698338e5c5",
+      "status" : "broken",
+      "statusDetails" : "Command \"maximizeWindow\" is not yet implemented",
+      "time" : {
+        "start" : 1596206446822,
+        "stop" : 1596206446822,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "77be09de772c8790",
+      "status" : "broken",
+      "statusDetails" : "Command \"maximizeWindow\" is not yet implemented",
+      "time" : {
+        "start" : 1596206397859,
+        "stop" : 1596206398356,
+        "duration" : 497
+      }
+    }, {
+      "uid" : "e3594fb0f3eb1417",
+      "status" : "broken",
+      "statusDetails" : "Command \"maximizeWindow\" is not yet implemented",
+      "time" : {
+        "start" : 1596206397353,
+        "stop" : 1596206397854,
+        "duration" : 501
+      }
+    }, {
+      "uid" : "8f6ef97d285abd96",
+      "status" : "broken",
+      "statusDetails" : "Command \"maximizeWindow\" is not yet implemented",
+      "time" : {
+        "start" : 1596206396852,
+        "stop" : 1596206397348,
+        "duration" : 496
+      }
+    }, {
+      "uid" : "4843d25d14040bd0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596202111898,
+        "stop" : 1596202112084,
+        "duration" : 186
+      }
+    }, {
+      "uid" : "1702a4b08c3f547f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596202110762,
+        "stop" : 1596202110930,
+        "duration" : 168
+      }
+    }, {
+      "uid" : "543990a8952182ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596202109982,
+        "stop" : 1596202110171,
+        "duration" : 189
+      }
+    }, {
+      "uid" : "47d734f4837c1e51",
+      "status" : "broken",
+      "statusDetails" : "Command \"maximizeWindow\" is not yet implemented",
+      "time" : {
+        "start" : 1596020670152,
+        "stop" : 1596020670336,
+        "duration" : 184
+      }
+    }, {
+      "uid" : "6a9ce5467a0040df",
+      "status" : "broken",
+      "statusDetails" : "Command \"maximizeWindow\" is not yet implemented",
+      "time" : {
+        "start" : 1596020669937,
+        "stop" : 1596020670148,
+        "duration" : 211
+      }
+    }, {
+      "uid" : "fedc9deb46ee2b13",
+      "status" : "broken",
+      "statusDetails" : "Command \"maximizeWindow\" is not yet implemented",
+      "time" : {
+        "start" : 1596020667137,
+        "stop" : 1596020669929,
+        "duration" : 2792
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5a06e62deb7ee87a.json",
+  "parameterValues" : [ "Chrome-10.0.19041" ]
+}

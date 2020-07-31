@@ -1,0 +1,58 @@
+{
+  "uid" : "b6963ac0f7b15d6d",
+  "name" : "Given I have loaded Google",
+  "fullName" : "user loads google: user loads up google and searches for Selenium.Given I have loaded Google",
+  "historyId" : "60d37d9b011a3f081412fd67d9ee643",
+  "time" : {
+    "start" : 1596206446792,
+    "stop" : 1596206446795,
+    "duration" : 3
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Command \"maximizeWindow\" is not yet implemented",
+  "statusTrace" : "Error: Command \"maximizeWindow\" is not yet implemented\n                    at Browser.retries (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\devtools\\build\\devtoolsdriver.js:75:15)\n                    at Browser.wrapCommandFn (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:54:17)\n                    at World.<anonymous> (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\Cucumber_Test\\Step-Definitions\\Test1Steps.js:12:23)\n                    at World.executeAsync (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\@wdio\\utils\\build\\shim.js:123:21)\n                    at World.testFrameworkFnWrapper (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\@wdio\\utils\\build\\test-framework\\testFnWrapper.js:49:28)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testClass",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I have loaded Google"
+  }, {
+    "name" : "package",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.19041"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b6963ac0f7b15d6d.json",
+  "parameterValues" : [ "Chrome-10.0.19041" ]
+}

@@ -1,60 +1,450 @@
 [ {
-  "uid" : "943b7ee328775bf2",
-  "name" : "When I search for a \"the crust of a creme brulee\"",
+  "uid" : "904a1465ad97f275",
+  "name" : "Then there should only be \"10\" organic results for the \"how far can you throw mud\"",
   "time" : {
-    "start" : 1595865493493,
-    "stop" : 1595865494339,
-    "duration" : 846
+    "start" : 1596206751101,
+    "stop" : 1596206751273,
+    "duration" : 172
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "5d5836dec11b8f87",
-  "name" : "Then there should always be \"9\" sub tabs to go between",
+  "uid" : "d65d017df5e88401",
+  "name" : "Then there should only be \"10\" organic results for the \"how far can you throw mud\"",
   "time" : {
-    "start" : 1595865495384,
-    "stop" : 1595865495469,
-    "duration" : 85
+    "start" : 1596207410232,
+    "stop" : 1596207410704,
+    "duration" : 472
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "ed1263fef2d643b1",
+  "uid" : "4294760454c1e243",
   "name" : "When I search for a \"pizzagate\"",
   "time" : {
-    "start" : 1595865492482,
-    "stop" : 1595865493131,
-    "duration" : 649
+    "start" : 1596206754054,
+    "stop" : 1596206754825,
+    "duration" : 771
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "7a78d76cdb5bf1a0",
-  "name" : "Given I have loaded Google",
+  "uid" : "8848925dbe4a12c3",
+  "name" : "Then there should only be \"10\" organic results for the \"home\"",
   "time" : {
-    "start" : 1595865494431,
-    "stop" : 1595865494635,
-    "duration" : 204
+    "start" : 1596207412507,
+    "stop" : 1596207412958,
+    "duration" : 451
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "718eb1691685f5af",
-  "name" : "When I search for a \"How to make something sound cool\"",
+  "uid" : "337f61cbd90d2de0",
+  "name" : "Then there should only be \"10\" organic results for the \"frighteningly large spiders\"",
   "time" : {
-    "start" : 1595865494635,
-    "stop" : 1595865495384,
-    "duration" : 749
+    "start" : 1596206749957,
+    "stop" : 1596206750191,
+    "duration" : 234
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "2526bf90f3a52841",
+  "uid" : "19c4272bd13f953f",
+  "name" : "When I search for a \"how far can you throw mud\"",
+  "time" : {
+    "start" : 1596206750195,
+    "stop" : 1596206751101,
+    "duration" : 906
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a27676ff6c029fa8",
   "name" : "Hook",
   "time" : {
-    "start" : 1595865495469,
-    "stop" : 1595865495469,
+    "start" : 1596206754050,
+    "stop" : 1596206754050,
     "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a06e62deb7ee87a",
+  "name" : "Given I have loaded Google",
+  "time" : {
+    "start" : 1596206755944,
+    "stop" : 1596206755944,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cd5ad7410f89ea13",
+  "name" : "Then there should only be \"10\" organic results for the \"adorable big dogs\"",
+  "time" : {
+    "start" : 1596207406840,
+    "stop" : 1596207407533,
+    "duration" : 693
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9de802c0965aea1b",
+  "name" : "Then the first result is \"The Selenium Browser Automation Project :: Documentation ...\"",
+  "time" : {
+    "start" : 1596207170138,
+    "stop" : 1596207172170,
+    "duration" : 2032
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "b5151f5138384cd2",
+  "name" : "When I search for a \"the crust of a creme brulee\"",
+  "time" : {
+    "start" : 1596207415335,
+    "stop" : 1596207416515,
+    "duration" : 1180
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "74ec38cf77dc9882",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1596207408874,
+    "stop" : 1596207408874,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec17c9e50e6a4ceb",
+  "name" : "When I search for a \"How to make something sound cool\"",
+  "time" : {
+    "start" : 1596207416599,
+    "stop" : 1596207417604,
+    "duration" : 1005
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6fb194319bcd3793",
+  "name" : "Then there should always be \"9\" sub tabs to go between",
+  "time" : {
+    "start" : 1596206756931,
+    "stop" : 1596206756982,
+    "duration" : 51
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c754ff89c6927302",
+  "name" : "Given I have loaded Google",
+  "time" : {
+    "start" : 1596207404534,
+    "stop" : 1596207404538,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "78714467f78c812e",
+  "name" : "When I search for a \"home\"",
+  "time" : {
+    "start" : 1596206751277,
+    "stop" : 1596206752745,
+    "duration" : 1468
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e5b9804ecdbc83a",
+  "name" : "When I search for a \"frighteningly large spiders\"",
+  "time" : {
+    "start" : 1596206748895,
+    "stop" : 1596206749957,
+    "duration" : 1062
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f5667b9c9fcb430a",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1596207417688,
+    "stop" : 1596207417688,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2db18d49bf40afec",
+  "name" : "When I search for \"selenium\"",
+  "time" : {
+    "start" : 1596207404538,
+    "stop" : 1596207406820,
+    "duration" : 2282
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b648e3e15f9216eb",
+  "name" : "Then there should always be \"9\" sub tabs to go between",
+  "time" : {
+    "start" : 1596207417604,
+    "stop" : 1596207417688,
+    "duration" : 84
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b72a3e00a1c85afe",
+  "name" : "Given I have loaded Google",
+  "time" : {
+    "start" : 1596207412961,
+    "stop" : 1596207412961,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "88589f8d38b1eccc",
+  "name" : "When I search for a \"largest gathering of vibes\"",
+  "time" : {
+    "start" : 1596206752913,
+    "stop" : 1596206753882,
+    "duration" : 969
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64d87a07aad55e00",
+  "name" : "Given I have loaded Google",
+  "time" : {
+    "start" : 1596206752911,
+    "stop" : 1596206752913,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ba2ce282d462b621",
+  "name" : "Then there should only be \"10\" organic results for the \"largest gathering of vibes\"",
+  "time" : {
+    "start" : 1596206753882,
+    "stop" : 1596206754050,
+    "duration" : 168
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d15106dd0e2d939f",
+  "name" : "When I search for a \"the crust of a creme brulee\"",
+  "time" : {
+    "start" : 1596206754865,
+    "stop" : 1596206755879,
+    "duration" : 1014
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b0111b4c114429cd",
+  "name" : "When I search for a \"how far can you throw mud\"",
+  "time" : {
+    "start" : 1596207409382,
+    "stop" : 1596207410232,
+    "duration" : 850
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f9dd5d47b67adfb1",
+  "name" : "When I search for a \"pizzagate\"",
+  "time" : {
+    "start" : 1596207414330,
+    "stop" : 1596207415238,
+    "duration" : 908
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "37439745cdc8f6ab",
+  "name" : "Then there should only be \"10\" organic results for the \"adorable big dogs\"",
+  "time" : {
+    "start" : 1596206748604,
+    "stop" : 1596206748887,
+    "duration" : 283
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9546132b6728cb3b",
+  "name" : "When I search for \"selenium\"",
+  "time" : {
+    "start" : 1596206744320,
+    "stop" : 1596206748738,
+    "duration" : 4418
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "212a5fbe6eb27c1b",
+  "name" : "Given I have loaded Google",
+  "time" : {
+    "start" : 1596206744318,
+    "stop" : 1596206744320,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dac4466e1771b768",
+  "name" : "When I search for a \"How to make something sound cool\"",
+  "time" : {
+    "start" : 1596206755944,
+    "stop" : 1596206756931,
+    "duration" : 987
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "32b17582dff97877",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1596207414326,
+    "stop" : 1596207414326,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dd2fe512fff70978",
+  "name" : "Then there should only be \"10\" organic results for the \"frighteningly large spiders\"",
+  "time" : {
+    "start" : 1596207408653,
+    "stop" : 1596207409377,
+    "duration" : 724
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "163850ba155728f6",
+  "name" : "When I search for a \"adorable big dogs\"",
+  "time" : {
+    "start" : 1596206744320,
+    "stop" : 1596206748604,
+    "duration" : 4284
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "36f89aea884cf2fd",
+  "name" : "Given I have loaded Google",
+  "time" : {
+    "start" : 1596207416598,
+    "stop" : 1596207416599,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "912439d1d976d2ca",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1596206756982,
+    "stop" : 1596206756982,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b4d12730254afd82",
+  "name" : "Then the first result is \"Selenium: Uses, Side Effects, Interactions, Dosage, and Warning\"",
+  "time" : {
+    "start" : 1596207406820,
+    "stop" : 1596207408874,
+    "duration" : 2054
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b35d0ad61e801d1d",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1596206750763,
+    "stop" : 1596206750763,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b2c76d10b45b4041",
+  "name" : "When I search for a \"home\"",
+  "time" : {
+    "start" : 1596207410709,
+    "stop" : 1596207412507,
+    "duration" : 1798
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "99bee0095504500b",
+  "name" : "When I search for a \"adorable big dogs\"",
+  "time" : {
+    "start" : 1596207404538,
+    "stop" : 1596207406840,
+    "duration" : 2302
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe4b4ed27da2ba4e",
+  "name" : "When I search for a \"frighteningly large spiders\"",
+  "time" : {
+    "start" : 1596207407542,
+    "stop" : 1596207408653,
+    "duration" : 1111
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7236d3cf95149b61",
+  "name" : "Then the first result is \"The Selenium Browser Automation Project :: Documentation ...\"",
+  "time" : {
+    "start" : 1596206748738,
+    "stop" : 1596206750762,
+    "duration" : 2024
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "e87b19443a83a76d",
+  "name" : "When I search for a \"largest gathering of vibes\"",
+  "time" : {
+    "start" : 1596207412961,
+    "stop" : 1596207413883,
+    "duration" : 922
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "804b9d7052593191",
+  "name" : "Then there should only be \"10\" organic results for the \"home\"",
+  "time" : {
+    "start" : 1596206752745,
+    "stop" : 1596206752908,
+    "duration" : 163
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e3d94b9b25710201",
+  "name" : "Then there should only be \"10\" organic results for the \"largest gathering of vibes\"",
+  "time" : {
+    "start" : 1596207413883,
+    "stop" : 1596207414325,
+    "duration" : 442
   },
   "status" : "passed",
   "severity" : "normal"

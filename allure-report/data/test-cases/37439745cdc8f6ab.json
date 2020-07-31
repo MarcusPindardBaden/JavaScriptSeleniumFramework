@@ -1,0 +1,162 @@
+{
+  "uid" : "37439745cdc8f6ab",
+  "name" : "Then there should only be \"10\" organic results for the \"adorable big dogs\"",
+  "fullName" : "Different counters on google search pages: User gets the same amount of actual results on every search.Then there should only be \"10\" organic results for the \"adorable big dogs\"",
+  "historyId" : "86312408995a11c78faa45171e4830e1",
+  "time" : {
+    "start" : 1596206748604,
+    "stop" : 1596206748887,
+    "duration" : 283
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then there should only be \"10\" organic results for the \"adorable big dogs\""
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.19041"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "785bee183ea22eba",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596206729887,
+        "stop" : 1596206729887,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "42bfa91e92600e57",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596206446796,
+        "stop" : 1596206446796,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "20e63b43f02e678e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596206393862,
+        "stop" : 1596206393862,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f8937981028f67",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596202104734,
+        "stop" : 1596202105012,
+        "duration" : 278
+      }
+    }, {
+      "uid" : "69a567546e001e80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596107104150,
+        "stop" : 1596107104410,
+        "duration" : 260
+      }
+    }, {
+      "uid" : "7aecaead3021c5ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596030935360,
+        "stop" : 1596030935600,
+        "duration" : 240
+      }
+    }, {
+      "uid" : "a3088ec9c19f0210",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596030051424,
+        "stop" : 1596030051691,
+        "duration" : 267
+      }
+    }, {
+      "uid" : "46ff7291ec1d0031",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596029299592,
+        "stop" : 1596029299846,
+        "duration" : 254
+      }
+    }, {
+      "uid" : "b80c78ee9677a6f0",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596029258358,
+        "stop" : 1596029258358,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "7b4a1e5e4aeed1ab",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596028540596,
+        "stop" : 1596028540596,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "44c038d8744515d9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596028458962,
+        "stop" : 1596028458962,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "7103ef615a1151c9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596027687447,
+        "stop" : 1596027687447,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e8a722576187710e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596021704067,
+        "stop" : 1596021704067,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "37439745cdc8f6ab.json",
+  "parameterValues" : [ "Chrome-10.0.19041" ]
+}
