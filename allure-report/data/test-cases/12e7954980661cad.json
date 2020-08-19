@@ -1,0 +1,74 @@
+{
+  "uid" : "12e7954980661cad",
+  "name" : "Then there should always be \"9\" sub tabs to go between",
+  "fullName" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search.Then there should always be \"9\" sub tabs to go between",
+  "historyId" : "a7197f5f6f58df43b7b60e7e93cd8197",
+  "time" : {
+    "start" : 1596643331580,
+    "stop" : 1596643331580,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then there should always be \"9\" sub tabs to go between"
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "isMultiremote",
+    "value" : "true"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d58893b06e7261f1",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596643331576,
+        "stop" : 1596643331576,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a756e5703eb100ba",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596643331573,
+        "stop" : 1596643331573,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "12e7954980661cad.json",
+  "parameterValues" : [ "true" ]
+}

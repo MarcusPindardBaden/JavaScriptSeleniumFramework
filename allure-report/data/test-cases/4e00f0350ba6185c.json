@@ -1,0 +1,74 @@
+{
+  "uid" : "4e00f0350ba6185c",
+  "name" : "Then there should always be \"9\" sub tabs to go between",
+  "fullName" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search.Then there should always be \"9\" sub tabs to go between",
+  "historyId" : "6822b6479755c142e3f376dd08f4132b",
+  "time" : {
+    "start" : 1596639787574,
+    "stop" : 1596639788512,
+    "duration" : 938
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then there should always be \"9\" sub tabs to go between"
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-4.19.104-microsoft-standard"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "868ffa857e7a5840",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596639784385,
+        "stop" : 1596639785189,
+        "duration" : 804
+      }
+    }, {
+      "uid" : "12408a4877743999",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596639781143,
+        "stop" : 1596639781987,
+        "duration" : 844
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4e00f0350ba6185c.json",
+  "parameterValues" : [ "firefox-4.19.104-microsoft-standard" ]
+}

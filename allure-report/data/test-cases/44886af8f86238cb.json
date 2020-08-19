@@ -1,0 +1,82 @@
+{
+  "uid" : "44886af8f86238cb",
+  "name" : "Then there should only be \"10\" organic results for the \"largest gathering of vibes\"",
+  "fullName" : "Different counters on google search pages: User gets the same amount of actual results on every search.Then there should only be \"10\" organic results for the \"largest gathering of vibes\"",
+  "historyId" : "981bcdab8bbfeb4d0dfbd7f88a620ef5",
+  "time" : {
+    "start" : 1597834624001,
+    "stop" : 1597834624162,
+    "duration" : 161
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then there should only be \"10\" organic results for the \"largest gathering of vibes\""
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.19041"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5d43fcd450ced378",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597834484382,
+        "stop" : 1597834484540,
+        "duration" : 158
+      }
+    }, {
+      "uid" : "c3d9cab7eb60a7a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597834438033,
+        "stop" : 1597834438201,
+        "duration" : 168
+      }
+    }, {
+      "uid" : "110ef0a0d1a99ee7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596644883179,
+        "stop" : 1596644883374,
+        "duration" : 195
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "44886af8f86238cb.json",
+  "parameterValues" : [ "Chrome-10.0.19041" ]
+}

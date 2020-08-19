@@ -1,0 +1,106 @@
+{
+  "uid" : "9ebcc23d73183d1b",
+  "name" : "Then there should only be \"10\" organic results for the \"adorable big dogs\"",
+  "fullName" : "Different counters on google search pages: User gets the same amount of actual results on every search.Then there should only be \"10\" organic results for the \"adorable big dogs\"",
+  "historyId" : "fac06c01b4425ff3d2df95995f4c546a",
+  "time" : {
+    "start" : 1597848775424,
+    "stop" : 1597848776454,
+    "duration" : 1030
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then there should only be \"10\" organic results for the \"adorable big dogs\""
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "69dccbd1a1bd7732",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597848634704,
+        "stop" : 1597848635699,
+        "duration" : 995
+      }
+    }, {
+      "uid" : "21e6ea76dd300595",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597834703108,
+        "stop" : 1597834704145,
+        "duration" : 1037
+      }
+    }, {
+      "uid" : "1658fff5a86a774d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596639044018,
+        "stop" : 1596639044662,
+        "duration" : 644
+      }
+    }, {
+      "uid" : "a3b2dbc733c3f4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596638988246,
+        "stop" : 1596638988980,
+        "duration" : 734
+      }
+    }, {
+      "uid" : "f97bdc2cb779616d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596638537556,
+        "stop" : 1596638538581,
+        "duration" : 1025
+      }
+    }, {
+      "uid" : "397089cadf87f2e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596636180722,
+        "stop" : 1596636181762,
+        "duration" : 1040
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9ebcc23d73183d1b.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,56 @@
+{
+  "uid" : "633f402f07f74c31",
+  "name" : "Then the first result is \"Selenium Foods: 20 Selenium-Rich Foods for Every Diet\"",
+  "fullName" : "user loads google: user loads up google and searches for Selenium.Then the first result is \"Selenium Foods: 20 Selenium-Rich Foods for Every Diet\"",
+  "historyId" : "dcc54c699dad0d5f846949df4cd8649a",
+  "time" : {
+    "start" : 1597834701893,
+    "stop" : 1597834703942,
+    "duration" : 2049
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testClass",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then the first result is \"Selenium Foods: 20 Selenium-Rich Foods for Every Diet\""
+  }, {
+    "name" : "package",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "633f402f07f74c31.json",
+  "parameterValues" : [ "chrome" ]
+}

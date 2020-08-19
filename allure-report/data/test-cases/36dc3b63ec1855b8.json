@@ -1,0 +1,98 @@
+{
+  "uid" : "36dc3b63ec1855b8",
+  "name" : "Hook",
+  "fullName" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search.Hook",
+  "historyId" : "27af5f613d850d138ee49c8b2ca54954",
+  "time" : {
+    "start" : 1596639009616,
+    "stop" : 1596639009616,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-10.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5aad25b9c9019089",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596639006353,
+        "stop" : 1596639006353,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a0394df7f20e5e75",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596639006348,
+        "stop" : 1596639006348,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "fdd2eaf51bc9e6ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596639003190,
+        "stop" : 1596639003190,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8bf6d1205f503171",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596639003186,
+        "stop" : 1596639003187,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "4a702f79eb0156c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596639000027,
+        "stop" : 1596639000027,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "36dc3b63ec1855b8.json",
+  "parameterValues" : [ "firefox-10.0" ]
+}

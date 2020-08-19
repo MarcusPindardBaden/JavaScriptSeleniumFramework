@@ -1,0 +1,82 @@
+{
+  "uid" : "19a5be26f154e9be",
+  "name" : "Then there should only be \"10\" organic results for the \"how far can you throw mud\"",
+  "fullName" : "Different counters on google search pages: User gets the same amount of actual results on every search.Then there should only be \"10\" organic results for the \"how far can you throw mud\"",
+  "historyId" : "b75b8b14ab7177296958a385853676c9",
+  "time" : {
+    "start" : 1597834617276,
+    "stop" : 1597834617446,
+    "duration" : 170
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then there should only be \"10\" organic results for the \"how far can you throw mud\""
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.19041"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9d3177ca3d81c903",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597834477821,
+        "stop" : 1597834477973,
+        "duration" : 152
+      }
+    }, {
+      "uid" : "7b40b2d1a87685f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597834431332,
+        "stop" : 1597834431499,
+        "duration" : 167
+      }
+    }, {
+      "uid" : "3ad7434c7f70e33b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596644876594,
+        "stop" : 1596644876785,
+        "duration" : 191
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "19a5be26f154e9be.json",
+  "parameterValues" : [ "Chrome-10.0.19041" ]
+}

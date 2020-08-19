@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Different_counters_on_google_search_pages" timestamp="2020-08-19T15:52:52" time="28.767" tests="8" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="featureName" value="Different counters on google search pages"/>
+      <property name="capabilities" value="chrome.84_0_4147_105.linux"/>
+      <property name="featureFile" value=".\Cucumber_Test\Features\CountingResults.feature"/>
+    </properties>
+    <testcase classname="CucumberJUnitReport-chrome.84_0_4147_105.linux.Different_counters_on_google_search_pages" name="Different_counters_on_google_search_pages.User_gets_the_same_amount_of_actual_results_on_every_search" time="4.103">
+      <system-out>
+        <![CDATA[
+✅ Given I have loaded Google✅ When I search for a "adorable big dogs"✅ Then there should only be "10" organic results for the "adorable big dogs"
+]]>
+      </system-out>
+    </testcase>
+    <testcase classname="CucumberJUnitReport-chrome.84_0_4147_105.linux.Different_counters_on_google_search_pages" name="Different_counters_on_google_search_pages.User_gets_the_same_amount_of_actual_results_on_every_search" time="3.983">
+      <system-out>
+        <![CDATA[
+✅ Given I have loaded Google✅ When I search for a "frighteningly large spiders"✅ Then there should only be "10" organic results for the "frighteningly large spiders"
+]]>
+      </system-out>
+    </testcase>
+    <testcase classname="CucumberJUnitReport-chrome.84_0_4147_105.linux.Different_counters_on_google_search_pages" name="Different_counters_on_google_search_pages.User_gets_the_same_amount_of_actual_results_on_every_search" time="3.554">
+      <system-out>
+        <![CDATA[
+✅ Given I have loaded Google✅ When I search for a "how far can you throw mud"✅ Then there should only be "10" organic results for the "how far can you throw mud"
+]]>
+      </system-out>
+    </testcase>
+    <testcase classname="CucumberJUnitReport-chrome.84_0_4147_105.linux.Different_counters_on_google_search_pages" name="Different_counters_on_google_search_pages.User_gets_the_same_amount_of_actual_results_on_every_search" time="4.443">
+      <system-out>
+        <![CDATA[
+✅ Given I have loaded Google✅ When I search for a "home"✅ Then there should only be "10" organic results for the "home"
+]]>
+      </system-out>
+    </testcase>
+    <testcase classname="CucumberJUnitReport-chrome.84_0_4147_105.linux.Different_counters_on_google_search_pages" name="Different_counters_on_google_search_pages.User_gets_the_same_amount_of_actual_results_on_every_search" time="3.445">
+      <system-out>
+        <![CDATA[
+✅ Given I have loaded Google✅ When I search for a "largest gathering of vibes"✅ Then there should only be "10" organic results for the "largest gathering of vibes"
+]]>
+      </system-out>
+    </testcase>
+    <testcase classname="CucumberJUnitReport-chrome.84_0_4147_105.linux.Different_counters_on_google_search_pages" name="Different_counters_on_google_search_pages.User_gets_the_same_amount_of_tabs_to_go_between_on_every_search" time="2.834">
+      <system-out>
+        <![CDATA[
+✅ Given I have loaded Google✅ When I search for a "pizzagate"✅ Then there should always be "9" sub tabs to go between
+]]>
+      </system-out>
+    </testcase>
+    <testcase classname="CucumberJUnitReport-chrome.84_0_4147_105.linux.Different_counters_on_google_search_pages" name="Different_counters_on_google_search_pages.User_gets_the_same_amount_of_tabs_to_go_between_on_every_search" time="3.319">
+      <system-out>
+        <![CDATA[
+✅ Given I have loaded Google✅ When I search for a "the crust of a creme brulee"✅ Then there should always be "9" sub tabs to go between
+]]>
+      </system-out>
+    </testcase>
+    <testcase classname="CucumberJUnitReport-chrome.84_0_4147_105.linux.Different_counters_on_google_search_pages" name="Different_counters_on_google_search_pages.User_gets_the_same_amount_of_tabs_to_go_between_on_every_search" time="3.057">
+      <system-out>
+        <![CDATA[
+✅ Given I have loaded Google✅ When I search for a "How to make something sound cool"✅ Then there should always be "9" sub tabs to go between
+]]>
+      </system-out>
+    </testcase>
+  </testsuite>
+</testsuites>

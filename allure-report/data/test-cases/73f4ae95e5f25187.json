@@ -1,0 +1,106 @@
+{
+  "uid" : "73f4ae95e5f25187",
+  "name" : "Then there should only be \"10\" organic results for the \"home\"",
+  "fullName" : "Different counters on google search pages: User gets the same amount of actual results on every search.Then there should only be \"10\" organic results for the \"home\"",
+  "historyId" : "6b695c1212a0a97fcf96684a738d9e6c",
+  "time" : {
+    "start" : 1597848787416,
+    "stop" : 1597848788446,
+    "duration" : 1030
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then there should only be \"10\" organic results for the \"home\""
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "990c3c6067c622ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597848646921,
+        "stop" : 1597848647902,
+        "duration" : 981
+      }
+    }, {
+      "uid" : "410da5e21c798928",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597834715381,
+        "stop" : 1597834716482,
+        "duration" : 1101
+      }
+    }, {
+      "uid" : "3bb0bc57c6c0b4db",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596639054495,
+        "stop" : 1596639054936,
+        "duration" : 441
+      }
+    }, {
+      "uid" : "3622f50e3592358f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596638998926,
+        "stop" : 1596638999404,
+        "duration" : 478
+      }
+    }, {
+      "uid" : "db47a156990aa80f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596638549262,
+        "stop" : 1596638549935,
+        "duration" : 673
+      }
+    }, {
+      "uid" : "8fac602381f71a95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596636192564,
+        "stop" : 1596636193522,
+        "duration" : 958
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "73f4ae95e5f25187.json",
+  "parameterValues" : [ "chrome" ]
+}

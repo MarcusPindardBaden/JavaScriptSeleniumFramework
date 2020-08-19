@@ -1,0 +1,58 @@
+{
+  "uid" : "55929982b4cd4dec",
+  "name" : "Then the first result is \"Selenium - Health Professional Fact Sheet\"",
+  "fullName" : "user loads google: user loads up google and searches for Selenium.Then the first result is \"Selenium - Health Professional Fact Sheet\"",
+  "historyId" : "57c41230f38cf4ee30134c9196e21d96",
+  "time" : {
+    "start" : 1597848774773,
+    "stop" : 1597848776815,
+    "duration" : 2042
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testClass",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then the first result is \"Selenium - Health Professional Fact Sheet\""
+  }, {
+    "name" : "package",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "55929982b4cd4dec.json",
+  "parameterValues" : [ "chrome" ]
+}

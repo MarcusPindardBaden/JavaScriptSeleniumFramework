@@ -1,0 +1,82 @@
+{
+  "uid" : "10079bf177d1db1f",
+  "name" : "Then the first result is \"Selenium: Uses, Side Effects, Interactions, Dosage, and Warning\"",
+  "fullName" : "user loads google: user loads up google and searches for Selenium.Then the first result is \"Selenium: Uses, Side Effects, Interactions, Dosage, and Warning\"",
+  "historyId" : "616a28c536f482a6739c8a1d1dad819c",
+  "time" : {
+    "start" : 1596639042629,
+    "stop" : 1596639044665,
+    "duration" : 2036
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testClass",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then the first result is \"Selenium: Uses, Side Effects, Interactions, Dosage, and Warning\""
+  }, {
+    "name" : "package",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3c9de7fc43d0eb0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596638986869,
+        "stop" : 1596638988909,
+        "duration" : 2040
+      }
+    }, {
+      "uid" : "c031785fd40d4b40",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596638536175,
+        "stop" : 1596638538238,
+        "duration" : 2063
+      }
+    }, {
+      "uid" : "445b2a4dc68f78c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596636180863,
+        "stop" : 1596636182907,
+        "duration" : 2044
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "10079bf177d1db1f.json",
+  "parameterValues" : [ "chrome" ]
+}

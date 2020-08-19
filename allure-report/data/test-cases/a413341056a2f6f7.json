@@ -1,0 +1,106 @@
+{
+  "uid" : "a413341056a2f6f7",
+  "name" : "When I search for a \"How to make something sound cool\"",
+  "fullName" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search.When I search for a \"How to make something sound cool\"",
+  "historyId" : "f24e44b975629031152251f76ad7f182",
+  "time" : {
+    "start" : 1597848798057,
+    "stop" : 1597848800999,
+    "duration" : 2942
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I search for a \"How to make something sound cool\""
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fed91d8cb0ccab8e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597848657417,
+        "stop" : 1597848660378,
+        "duration" : 2961
+      }
+    }, {
+      "uid" : "1cd28bb66eaa2873",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597834725892,
+        "stop" : 1597834728732,
+        "duration" : 2840
+      }
+    }, {
+      "uid" : "57fbd50b11f9ba06",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596639063719,
+        "stop" : 1596639066547,
+        "duration" : 2828
+      }
+    }, {
+      "uid" : "d32a2571eecbfa3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596639008218,
+        "stop" : 1596639011012,
+        "duration" : 2794
+      }
+    }, {
+      "uid" : "b4aff30971d640ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596638559342,
+        "stop" : 1596638562177,
+        "duration" : 2835
+      }
+    }, {
+      "uid" : "b433bfa403a47609",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596636202938,
+        "stop" : 1596636205875,
+        "duration" : 2937
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a413341056a2f6f7.json",
+  "parameterValues" : [ "chrome" ]
+}

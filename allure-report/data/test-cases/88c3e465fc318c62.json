@@ -1,0 +1,218 @@
+{
+  "uid" : "88c3e465fc318c62",
+  "name" : "Then there should always be \"9\" sub tabs to go between",
+  "fullName" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search.Then there should always be \"9\" sub tabs to go between",
+  "historyId" : "a1baa6441a513d8d3a8b1142968632a9",
+  "time" : {
+    "start" : 1597848800999,
+    "stop" : 1597848801112,
+    "duration" : 113
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then there should always be \"9\" sub tabs to go between"
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5b85ddecef8793c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597848797944,
+        "stop" : 1597848798053,
+        "duration" : 109
+      }
+    }, {
+      "uid" : "3869b25a30498102",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597848794626,
+        "stop" : 1597848794730,
+        "duration" : 104
+      }
+    }, {
+      "uid" : "2408dedf9ee85d1c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597848660378,
+        "stop" : 1597848660489,
+        "duration" : 111
+      }
+    }, {
+      "uid" : "5cde3d2bc64e5d54",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597848657305,
+        "stop" : 1597848657412,
+        "duration" : 107
+      }
+    }, {
+      "uid" : "a9fb461b2e88a1c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597848654110,
+        "stop" : 1597848654230,
+        "duration" : 120
+      }
+    }, {
+      "uid" : "74cdadcf958dae9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597834728732,
+        "stop" : 1597834728835,
+        "duration" : 103
+      }
+    }, {
+      "uid" : "35ab3fc69fedf06d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597834725776,
+        "stop" : 1597834725886,
+        "duration" : 110
+      }
+    }, {
+      "uid" : "35f467c4585640c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597834722736,
+        "stop" : 1597834722849,
+        "duration" : 113
+      }
+    }, {
+      "uid" : "c370961c7d1b4996",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596639066547,
+        "stop" : 1596639066626,
+        "duration" : 79
+      }
+    }, {
+      "uid" : "b851f4af6c37c46e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596639063639,
+        "stop" : 1596639063715,
+        "duration" : 76
+      }
+    }, {
+      "uid" : "a5ef3a7b72bd8e50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596639060689,
+        "stop" : 1596639060773,
+        "duration" : 84
+      }
+    }, {
+      "uid" : "737eae7ed7ae2129",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596639011012,
+        "stop" : 1596639011094,
+        "duration" : 82
+      }
+    }, {
+      "uid" : "f47a967ebf8284a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596639008135,
+        "stop" : 1596639008213,
+        "duration" : 78
+      }
+    }, {
+      "uid" : "29ee54009563131a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596639005203,
+        "stop" : 1596639005287,
+        "duration" : 84
+      }
+    }, {
+      "uid" : "e30a892f4efdfff7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596638562177,
+        "stop" : 1596638562296,
+        "duration" : 119
+      }
+    }, {
+      "uid" : "40fedd7e129fa179",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596638559234,
+        "stop" : 1596638559338,
+        "duration" : 104
+      }
+    }, {
+      "uid" : "232e0892149304ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596638556089,
+        "stop" : 1596638556203,
+        "duration" : 114
+      }
+    }, {
+      "uid" : "f7c12559613d3121",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596636205875,
+        "stop" : 1596636205984,
+        "duration" : 109
+      }
+    }, {
+      "uid" : "6f1f54e025f56ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596636202814,
+        "stop" : 1596636202932,
+        "duration" : 118
+      }
+    }, {
+      "uid" : "94ca3a18b834cad0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596636199716,
+        "stop" : 1596636199831,
+        "duration" : 115
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "88c3e465fc318c62.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,114 @@
+{
+  "uid" : "c6c3b7445d808872",
+  "name" : "Hook",
+  "fullName" : "user loads google: user loads up google and searches for Selenium.Hook",
+  "historyId" : "a2453fc1b8084f9ca13c0e4a33ddc462",
+  "time" : {
+    "start" : 1597834613136,
+    "stop" : 1597834613136,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testClass",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.19041"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4540fe4c47d8d123",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597834606946,
+        "stop" : 1597834606947,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "2db5e135f6eaff00",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597834473894,
+        "stop" : 1597834473894,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "babebb3f49d67e51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597834467608,
+        "stop" : 1597834467609,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "f80bc4f32940bb01",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597834427081,
+        "stop" : 1597834427081,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "20bc19660b8234c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597834420972,
+        "stop" : 1597834420972,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "febc8fbd1973642a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596644872189,
+        "stop" : 1596644872189,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e5305807c61fb27a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596644865851,
+        "stop" : 1596644865852,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c6c3b7445d808872.json",
+  "parameterValues" : [ "Chrome-10.0.19041" ]
+}

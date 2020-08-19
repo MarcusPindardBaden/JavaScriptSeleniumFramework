@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="user_loads_google" timestamp="2020-08-19T15:52:52" time="4.474" tests="1" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="featureName" value="user loads google"/>
+      <property name="capabilities" value="chrome.84_0_4147_105.linux"/>
+      <property name="featureFile" value=".\Cucumber_Test\Features\Feature1.feature"/>
+    </properties>
+    <testcase classname="CucumberJUnitReport-chrome.84_0_4147_105.linux.user_loads_google" name="user_loads_google.user_loads_up_google_and_searches_for_Selenium" time="4.464">
+      <system-out>
+        <![CDATA[
+✅ Given I have loaded Google✅ When I search for "selenium"✅ Then the first result is "Selenium - Health Professional Fact Sheet"
+]]>
+      </system-out>
+    </testcase>
+  </testsuite>
+</testsuites>

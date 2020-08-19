@@ -1,0 +1,82 @@
+{
+  "uid" : "2037ff34fc65c788",
+  "name" : "When I search for a \"home\"",
+  "fullName" : "Different counters on google search pages: User gets the same amount of actual results on every search.When I search for a \"home\"",
+  "historyId" : "b4c32c61480891084a58a7ce31284367",
+  "time" : {
+    "start" : 1597834617451,
+    "stop" : 1597834621041,
+    "duration" : 3590
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I search for a \"home\""
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.19041"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "25b238ac0f15f558",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597834477977,
+        "stop" : 1597834481489,
+        "duration" : 3512
+      }
+    }, {
+      "uid" : "2fe184e3c8d7a073",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597834431503,
+        "stop" : 1597834434946,
+        "duration" : 3443
+      }
+    }, {
+      "uid" : "f1b940b00efe21bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596644876789,
+        "stop" : 1596644880019,
+        "duration" : 3230
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2037ff34fc65c788.json",
+  "parameterValues" : [ "Chrome-10.0.19041" ]
+}

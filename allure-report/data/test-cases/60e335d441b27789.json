@@ -1,0 +1,82 @@
+{
+  "uid" : "60e335d441b27789",
+  "name" : "Then there should only be \"10\" organic results for the \"adorable big dogs\"",
+  "fullName" : "Different counters on google search pages: User gets the same amount of actual results on every search.Then there should only be \"10\" organic results for the \"adorable big dogs\"",
+  "historyId" : "86312408995a11c78faa45171e4830e1",
+  "time" : {
+    "start" : 1597834611181,
+    "stop" : 1597834611441,
+    "duration" : 260
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then there should only be \"10\" organic results for the \"adorable big dogs\""
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.19041"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8053eee3447e6d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597834471674,
+        "stop" : 1597834471960,
+        "duration" : 286
+      }
+    }, {
+      "uid" : "7a91e7234c00c3b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597834425016,
+        "stop" : 1597834425277,
+        "duration" : 261
+      }
+    }, {
+      "uid" : "42eba1208008257c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596644870235,
+        "stop" : 1596644870499,
+        "duration" : 264
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "60e335d441b27789.json",
+  "parameterValues" : [ "Chrome-10.0.19041" ]
+}

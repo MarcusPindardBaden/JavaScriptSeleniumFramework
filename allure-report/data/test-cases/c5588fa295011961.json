@@ -1,0 +1,106 @@
+{
+  "uid" : "c5588fa295011961",
+  "name" : "When I search for a \"the crust of a creme brulee\"",
+  "fullName" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search.When I search for a \"the crust of a creme brulee\"",
+  "historyId" : "e9ffe1fcb4190775760cfa3168a8e816",
+  "time" : {
+    "start" : 1597848794735,
+    "stop" : 1597848797944,
+    "duration" : 3209
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I search for a \"the crust of a creme brulee\""
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7e0f08be368ed09d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597848654236,
+        "stop" : 1597848657305,
+        "duration" : 3069
+      }
+    }, {
+      "uid" : "2689cabfb05dba5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597834722854,
+        "stop" : 1597834725776,
+        "duration" : 2922
+      }
+    }, {
+      "uid" : "838c7e12ed761de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596639060780,
+        "stop" : 1596639063639,
+        "duration" : 2859
+      }
+    }, {
+      "uid" : "5b5833e2b4fc262",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596639005291,
+        "stop" : 1596639008135,
+        "duration" : 2844
+      }
+    }, {
+      "uid" : "940e13f3dfb26dfd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596638556209,
+        "stop" : 1596638559234,
+        "duration" : 3025
+      }
+    }, {
+      "uid" : "e7ed64c0acf92d29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596636199836,
+        "stop" : 1596636202814,
+        "duration" : 2978
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c5588fa295011961.json",
+  "parameterValues" : [ "chrome" ]
+}

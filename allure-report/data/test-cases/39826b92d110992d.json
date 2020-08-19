@@ -1,0 +1,58 @@
+{
+  "uid" : "39826b92d110992d",
+  "name" : "Then the first result is \"Selenium: Uses, Side Effects, Interactions, Dosage, and Warning\"",
+  "fullName" : "user loads google: user loads up google and searches for Selenium.Then the first result is \"Selenium: Uses, Side Effects, Interactions, Dosage, and Warning\"",
+  "historyId" : "96f194ad5787f42101adb670116c9f4c",
+  "time" : {
+    "start" : 1597834425053,
+    "stop" : 1597834427081,
+    "duration" : 2028
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "'Selenium Foods: 20 Selenium-Rich Foods for Every Diet' == 'Selenium: Uses, Side Effects, Interactions, Dosage, and Warning'",
+  "statusTrace" : "AssertionError [ERR_ASSERTION]: 'Selenium Foods: 20 Selenium-Rich Foods for Every Diet' == 'Selenium: Uses, Side Effects, Interactions, Dosage, and Warning'\n                    at World.<anonymous> (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\Cucumber_Test\\Step-Definitions\\Test1Steps.js:26:16)\n                    at World.executeAsync (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\@wdio\\utils\\build\\shim.js:123:12)\n                    at World.testFrameworkFnWrapper (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\@wdio\\utils\\build\\test-framework\\testFnWrapper.js:57:14)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testClass",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then the first result is \"Selenium: Uses, Side Effects, Interactions, Dosage, and Warning\""
+  }, {
+    "name" : "package",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.19041"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "39826b92d110992d.json",
+  "parameterValues" : [ "Chrome-10.0.19041" ]
+}

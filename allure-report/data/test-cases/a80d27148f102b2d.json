@@ -1,0 +1,56 @@
+{
+  "uid" : "a80d27148f102b2d",
+  "name" : "When I search for \"selenium\"",
+  "fullName" : "user loads google: user loads up google and searches for Selenium.When I search for \"selenium\"",
+  "historyId" : "92dd5e59e255da4649d1ee3c30e104e6",
+  "time" : {
+    "start" : 1596639041047,
+    "stop" : 1596639042629,
+    "duration" : 1582
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testClass",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I search for \"selenium\""
+  }, {
+    "name" : "package",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a80d27148f102b2d.json",
+  "parameterValues" : [ "chrome" ]
+}

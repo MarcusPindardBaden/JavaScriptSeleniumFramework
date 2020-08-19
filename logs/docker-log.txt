@@ -1,43 +1,43 @@
-2020-08-19 10:58:15,151 INFO Included extra file "/etc/supervisor/conf.d/selenium.conf" during parsing
-2020-08-19 10:58:15,152 INFO supervisord started with pid 7
-2020-08-19 10:58:16,154 INFO spawned: 'xvfb' with pid 10
-2020-08-19 10:58:16,154 INFO spawned: 'selenium-standalone' with pid 11
-10:58:16.294 INFO [GridLauncherV3.parse] - Selenium server version: 3.141.59, revision: e82be7d358
-2020-08-19 10:58:16,295 INFO success: xvfb entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
-2020-08-19 10:58:16,295 INFO success: selenium-standalone entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
-10:58:16.342 INFO [GridLauncherV3.lambda$buildLaunchers$3] - Launching a standalone Selenium Server on port 4444
-2020-08-19 10:58:16.366:INFO::main: Logging initialized @206ms to org.seleniumhq.jetty9.util.log.StdErrLog
-10:58:16.485 INFO [WebDriverServlet.<init>] - Initialising WebDriverServlet
-10:58:16.535 INFO [SeleniumServer.boot] - Selenium Server is up and running on port 4444
-10:58:17.826 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+2020-08-19 14:52:49,069 INFO Included extra file "/etc/supervisor/conf.d/selenium.conf" during parsing
+2020-08-19 14:52:49,070 INFO supervisord started with pid 7
+2020-08-19 14:52:50,072 INFO spawned: 'xvfb' with pid 10
+2020-08-19 14:52:50,073 INFO spawned: 'selenium-standalone' with pid 11
+14:52:50.209 INFO [GridLauncherV3.parse] - Selenium server version: 3.141.59, revision: e82be7d358
+2020-08-19 14:52:50,210 INFO success: xvfb entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2020-08-19 14:52:50,210 INFO success: selenium-standalone entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+14:52:50.256 INFO [GridLauncherV3.lambda$buildLaunchers$3] - Launching a standalone Selenium Server on port 4444
+2020-08-19 14:52:50.280:INFO::main: Logging initialized @202ms to org.seleniumhq.jetty9.util.log.StdErrLog
+14:52:50.401 INFO [WebDriverServlet.<init>] - Initialising WebDriverServlet
+14:52:50.454 INFO [SeleniumServer.boot] - Selenium Server is up and running on port 4444
+14:52:51.743 INFO [ActiveSessionFactory.apply] - Capabilities are: {
   "acceptInsecureCerts": true,
   "browserName": "chrome"
 }
-10:58:17.826 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+14:52:51.743 INFO [ActiveSessionFactory.apply] - Capabilities are: {
   "acceptInsecureCerts": true,
   "browserName": "chrome"
 }
-10:58:17.828 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.grid.session.remote.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
-10:58:17.828 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.grid.session.remote.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
-SSttaarrttiinngg  CChhrroommeeDDrriivveerr  8844..00..44114477..3300  ((4488bb33ee886688bb44cccc00aaaa77ee88114499551199669900bb6f6949e110a8-refs/branc6h-hfe6a9d4s9/e4111407a@8{-#r3e1f0s}/)b roann cpho-rhte a2d3s4/6491
-Only local connect4io7n@s{ #a3r1e0 }a)l loonw epdo.r
-Please see https://chromedriver.tch r2o6m5i0u4m
-O.nloyr gl/osceaclu rciotnyn-eccotnisoindse raarte iaolnlso wfedo.r
-Ple ases usgegee shttitopnss: /o/nc hkreoempeidnrgi vCehr.rcohmreoDmriiuvme.ro rsga/fsee.c
-urity-considerations for suggestions on keeping ChromeDriver safe.
-[1597834697.901][SEVERE][:1 b5i9n7d8(3)4 6fa9i7l.e9dC0h1r]omeDCrhirvoemre Dwraisv esr[tS EwVaErRtEe]d:  sbuicncde(s)s :a fsuC asnnot assign requested address (99)
-failed: Cannot assign requested address (99)
-lly.
-tarted successfully.
-10:58:19.417 INFO [ProtocolHandshake.createSession] - Detected dialect: W3C
-10:58:19.417 INFO [ProtocolHandshake.createSession] - Detected dialect: W3C
-10:58:19.434 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session f9c3957fbe7ee02257d08d0f6b25fee7 (org.openqa.selenium.chrome.ChromeDriverService)
-10:58:19.434 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session 26b1f436f6fc0d94dac072ad9a992fe0 (org.openqa.selenium.chrome.ChromeDriverService)
-10:58:23.544 INFO [ActiveSessions$1.onStop] - Removing session f9c3957fbe7ee02257d08d0f6b25fee7 (org.openqa.selenium.chrome.ChromeDriverService)
-10:58:48.430 INFO [ActiveSessions$1.onStop] - Removing session 26b1f436f6fc0d94dac072ad9a992fe0 (org.openqa.selenium.chrome.ChromeDriverService)
+14:52:51.744 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.grid.session.remote.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+14:52:51.744 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.grid.session.remote.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}) Sotna rptoirntg  2C8838
+Only local connections areh arlolmoewDerdi.v
+ePrl e8a4s.e0 .s4e1e4 7h.t3t0p s(:4/8/bc3her8o6m8ebd4rcicv0eara.7ceh8r1o4m9i5u196m9.0obr6gf/6s9e4c9uer1i1t0ya-8c-ornesfisd/erabtions rfaonrc hs-uhgegaedsst/i4o1n4s7 @o{n# ke3e1p0i}n)g  oChromeDriver safe[.
+ChromeDriver was started success1f5u9l7l8y4.8
+[1597848771.n7 port 9466
+Only local connections are7 71.768][SEVERE]: bind() failedallo:w eCda.n
+6P8][SEVERE]: bind() failed: Cannot assign requeslteeads ea dsderee shs n(to9t9tp )sa
+://chromedriver.chromium.sorgs/isgenc urreiqtuye-sctoends iaddedrartieosnss  (f9o9r) 
+suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+14:52:52.165 INFO [ProtocolHandshake.createSession] - Detected dialect: W3C
+14:52:52.165 INFO [ProtocolHandshake.createSession] - Detected dialect: W3C
+14:52:52.180 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session 3582fabfe98a60cf8f8cead75cce6a91 (org.openqa.selenium.chrome.ChromeDriverService)
+14:52:52.180 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session 07491e48b5ecab10c4c487c917445e8b (org.openqa.selenium.chrome.ChromeDriverService)
+14:52:56.907 INFO [ActiveSessions$1.onStop] - Removing session 07491e48b5ecab10c4c487c917445e8b (org.openqa.selenium.chrome.ChromeDriverService)
+14:53:21.169 INFO [ActiveSessions$1.onStop] - Removing session 3582fabfe98a60cf8f8cead75cce6a91 (org.openqa.selenium.chrome.ChromeDriverService)
 Trapped SIGTERM/SIGINT/x so shutting down supervisord...
-2020-08-19 10:58:48,646 WARN received SIGTERM indicating exit request
-2020-08-19 10:58:48,646 INFO waiting for xvfb, selenium-standalone to die
-2020-08-19 10:58:48,646 INFO stopped: selenium-standalone (terminated by SIGTERM)
-2020-08-19 10:58:48,647 INFO stopped: xvfb (terminated by SIGTERM)
+2020-08-19 14:53:21,414 WARN received SIGTERM indicating exit request
+2020-08-19 14:53:21,414 INFO waiting for xvfb, selenium-standalone to die
+2020-08-19 14:53:21,415 INFO stopped: selenium-standalone (terminated by SIGTERM)
+2020-08-19 14:53:21,415 INFO stopped: xvfb (terminated by SIGTERM)
 Shutdown complete
