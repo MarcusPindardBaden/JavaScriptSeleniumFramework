@@ -7,7 +7,8 @@
     "test": "./node_modules/.bin/wdio ./wdio.conf.js -t @Test1 && allure generate --clean -o allure-report && allure open",
     "cucumber": "cucumber-js ./Cucumber_Test/Features -r ./Cucumber_Test/Step-Definitions",
     "Report": "allure generate --clean && allure open",
-    "dockerTest": "./node_modules/.bin/wdio wdio.docker.conf.js && allure generate --clean -o allure-report && allure open"
+    "dockerTest": "./node_modules/.bin/wdio wdio.docker.conf.js && allure generate --clean -o allure-report && allure open",
+    "jenkinsTest": "./node_modules/.bin/wdio wdio.docker.conf.js"
   },
   "author": "",
   "license": "ISC",
