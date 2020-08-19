@@ -1,0 +1,58 @@
+{
+  "uid" : "1d4f75ff8c5870bd",
+  "name" : "Then the first result is \"Selenium: Uses, Side Effects, Interactions, Dosage, and Warning\"",
+  "fullName" : "user loads google: user loads up google and searches for Selenium.Then the first result is \"Selenium: Uses, Side Effects, Interactions, Dosage, and Warning\"",
+  "historyId" : "88a8fa691ddbfb637365b94f3e8ff09f",
+  "time" : {
+    "start" : 1596639014208,
+    "stop" : 1596639017328,
+    "duration" : 3120
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-1"
+  }, {
+    "name" : "suite",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testClass",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then the first result is \"Selenium: Uses, Side Effects, Interactions, Dosage, and Warning\""
+  }, {
+    "name" : "package",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-10.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1d4f75ff8c5870bd.json",
+  "parameterValues" : [ "firefox-10.0" ]
+}

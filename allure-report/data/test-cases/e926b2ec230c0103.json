@@ -1,0 +1,82 @@
+{
+  "uid" : "e926b2ec230c0103",
+  "name" : "When I search for a \"pizzagate\"",
+  "fullName" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search.When I search for a \"pizzagate\"",
+  "historyId" : "a4c37c992616473c6a62c4a90b7d15b0",
+  "time" : {
+    "start" : 1597834624166,
+    "stop" : 1597834626803,
+    "duration" : 2637
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I search for a \"pizzagate\""
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.19041"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "242276ed00ad867d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597834484544,
+        "stop" : 1597834487165,
+        "duration" : 2621
+      }
+    }, {
+      "uid" : "352641dbfe7fce7e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597834438205,
+        "stop" : 1597834440849,
+        "duration" : 2644
+      }
+    }, {
+      "uid" : "4ed1175e6e2c0cab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596644883378,
+        "stop" : 1596644886123,
+        "duration" : 2745
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e926b2ec230c0103.json",
+  "parameterValues" : [ "Chrome-10.0.19041" ]
+}

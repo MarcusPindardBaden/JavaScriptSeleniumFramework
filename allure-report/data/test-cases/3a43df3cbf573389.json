@@ -1,0 +1,82 @@
+{
+  "uid" : "3a43df3cbf573389",
+  "name" : "Given I have loaded Google",
+  "fullName" : "user loads google: user loads up google and searches for Selenium.Given I have loaded Google",
+  "historyId" : "60d37d9b011a3f081412fd67d9ee643",
+  "time" : {
+    "start" : 1597834606947,
+    "stop" : 1597834606949,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testClass",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I have loaded Google"
+  }, {
+    "name" : "package",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.19041"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "85cb7cf300f3185b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597834467609,
+        "stop" : 1597834467611,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "9365561023ee073d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597834420973,
+        "stop" : 1597834420975,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "b11ae026de8f68a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596644865852,
+        "stop" : 1596644865854,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3a43df3cbf573389.json",
+  "parameterValues" : [ "Chrome-10.0.19041" ]
+}

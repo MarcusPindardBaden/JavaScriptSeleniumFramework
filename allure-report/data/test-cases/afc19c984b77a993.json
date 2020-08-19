@@ -1,0 +1,90 @@
+{
+  "uid" : "afc19c984b77a993",
+  "name" : "When I search for a \"largest gathering of vibes\"",
+  "fullName" : "Different counters on google search pages: User gets the same amount of actual results on every search.When I search for a \"largest gathering of vibes\"",
+  "historyId" : "236cc182d03de9cd602ebe6cb04e3d31",
+  "time" : {
+    "start" : 1597834716487,
+    "stop" : 1597834719346,
+    "duration" : 2859
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I search for a \"largest gathering of vibes\""
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1b8041ddf16d505a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596639054940,
+        "stop" : 1596639057669,
+        "duration" : 2729
+      }
+    }, {
+      "uid" : "af880324b4e12330",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596638999408,
+        "stop" : 1596639002110,
+        "duration" : 2702
+      }
+    }, {
+      "uid" : "5bc8b17cedad5c67",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596638549939,
+        "stop" : 1596638552735,
+        "duration" : 2796
+      }
+    }, {
+      "uid" : "703140ae924f4e8f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596636193529,
+        "stop" : 1596636196321,
+        "duration" : 2792
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "afc19c984b77a993.json",
+  "parameterValues" : [ "chrome" ]
+}

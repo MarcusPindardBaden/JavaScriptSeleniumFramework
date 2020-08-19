@@ -1,0 +1,82 @@
+{
+  "uid" : "7e249d591a699822",
+  "name" : "When I search for a \"How to make something sound cool\"",
+  "fullName" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search.When I search for a \"How to make something sound cool\"",
+  "historyId" : "6563d66ce2abb989e783acfd35cb230a",
+  "time" : {
+    "start" : 1597834629818,
+    "stop" : 1597834632704,
+    "duration" : 2886
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I search for a \"How to make something sound cool\""
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.19041"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f1bedde01c82a69a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597834490234,
+        "stop" : 1597834493167,
+        "duration" : 2933
+      }
+    }, {
+      "uid" : "db7d91951525ba03",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597834443943,
+        "stop" : 1597834446897,
+        "duration" : 2954
+      }
+    }, {
+      "uid" : "d7e16469e6669b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596644889532,
+        "stop" : 1596644892417,
+        "duration" : 2885
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7e249d591a699822.json",
+  "parameterValues" : [ "Chrome-10.0.19041" ]
+}

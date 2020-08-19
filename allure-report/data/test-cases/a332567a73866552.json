@@ -1,0 +1,90 @@
+{
+  "uid" : "a332567a73866552",
+  "name" : "Then there should only be \"10\" organic results for the \"frighteningly large spiders\"",
+  "fullName" : "Different counters on google search pages: User gets the same amount of actual results on every search.Then there should only be \"10\" organic results for the \"frighteningly large spiders\"",
+  "historyId" : "f1c9105421d439d05bba388e7fee1473",
+  "time" : {
+    "start" : 1597834707054,
+    "stop" : 1597834708049,
+    "duration" : 995
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then there should only be \"10\" organic results for the \"frighteningly large spiders\""
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "17a02e425a27ae04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596639047460,
+        "stop" : 1596639048106,
+        "duration" : 646
+      }
+    }, {
+      "uid" : "c7e687d37ed516d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596638991827,
+        "stop" : 1596638992543,
+        "duration" : 716
+      }
+    }, {
+      "uid" : "4d9676f793d70396",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596638541441,
+        "stop" : 1596638542520,
+        "duration" : 1079
+      }
+    }, {
+      "uid" : "7942b8c77ecdf341",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596636184615,
+        "stop" : 1596636185638,
+        "duration" : 1023
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a332567a73866552.json",
+  "parameterValues" : [ "chrome" ]
+}

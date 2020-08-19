@@ -1,0 +1,66 @@
+{
+  "uid" : "a7f52a3d5d2434c7",
+  "name" : "Hook",
+  "fullName" : "user loads google: user loads up google and searches for Selenium.Hook",
+  "historyId" : "316bb7ced15a2db54733461a7896fcb1",
+  "time" : {
+    "start" : 1596639017328,
+    "stop" : 1596639017328,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-1"
+  }, {
+    "name" : "suite",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testClass",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-10.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ad8fcda14afce305",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596639013387,
+        "stop" : 1596639013387,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a7f52a3d5d2434c7.json",
+  "parameterValues" : [ "firefox-10.0" ]
+}

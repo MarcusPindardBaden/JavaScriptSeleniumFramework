@@ -1,0 +1,58 @@
+{
+  "uid" : "3e41ccbd749043bf",
+  "name" : "When I search for \"selenium\"",
+  "fullName" : "user loads google: user loads up google and searches for Selenium.When I search for \"selenium\"",
+  "historyId" : "59b5e19b4609bc594d8fd2514c535cef",
+  "time" : {
+    "start" : 1596639013387,
+    "stop" : 1596639014208,
+    "duration" : 821
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-1"
+  }, {
+    "name" : "suite",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testClass",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I search for \"selenium\""
+  }, {
+    "name" : "package",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-10.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3e41ccbd749043bf.json",
+  "parameterValues" : [ "firefox-10.0" ]
+}

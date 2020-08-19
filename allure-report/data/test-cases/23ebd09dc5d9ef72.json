@@ -1,0 +1,64 @@
+{
+  "uid" : "23ebd09dc5d9ef72",
+  "name" : "Given I have loaded Google",
+  "fullName" : "user loads google: user loads up google and searches for Selenium.Given I have loaded Google",
+  "historyId" : "c41cf4a78d0bd8658efdee71b2c1334d",
+  "time" : {
+    "start" : 1596643331548,
+    "stop" : 1596643331551,
+    "duration" : 3
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Cannot assign to read only property '_NOT_FIBER' of object '#<MultiRemoteDriver>'",
+  "statusTrace" : "TypeError: Cannot assign to read only property '_NOT_FIBER' of object '#<MultiRemoteDriver>'\n                    at MultiRemoteDriver.wrapCommandFn (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:57:21)\n                    at World.<anonymous> (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\Cucumber_Test\\Step-Definitions\\Test1Steps.js:11:17)\n                    at World.executeAsync (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\@wdio\\utils\\build\\shim.js:123:21)\n                    at World.testFrameworkFnWrapper (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\@wdio\\utils\\build\\test-framework\\testFnWrapper.js:49:28)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testClass",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I have loaded Google"
+  }, {
+    "name" : "package",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "isMultiremote",
+    "value" : "true"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "23ebd09dc5d9ef72.json",
+  "parameterValues" : [ "true" ]
+}
