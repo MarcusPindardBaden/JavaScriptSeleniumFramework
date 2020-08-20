@@ -1,3 +1,4 @@
+@Count
 Feature: Different counters on google search pages
 Scenario Outline: User gets the same amount of actual results on every search
 Given I have loaded Google

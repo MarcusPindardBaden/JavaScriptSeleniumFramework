@@ -9,7 +9,9 @@ module.exports =
         await searchBar.waitForDisplayed(5000);
         await searchBar.click();
         await searchBar.setValue(input);
+        await browser.pause(1000);
         await driver.keys('Enter');
+        await browser.pause(1000);
     },
 
     async waitForDisplay(elementPath)
