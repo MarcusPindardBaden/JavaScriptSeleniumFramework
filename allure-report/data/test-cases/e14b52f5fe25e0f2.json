@@ -1,0 +1,66 @@
+{
+  "uid" : "e14b52f5fe25e0f2",
+  "name" : "Hook",
+  "fullName" : ": Testing the accessibility of a webpage: Checking that the links in the different sections are keyboard focusable.Hook",
+  "historyId" : "7e7c71d6a47e0c748bbe1f7896109bb",
+  "time" : {
+    "start" : 1598367044656,
+    "stop" : 1598367044657,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Testing the accessibility of a webpage: Checking that the links in the different sections are keyboard focusable"
+  }, {
+    "name" : "testClass",
+    "value" : ": Testing the accessibility of a webpage: Checking that the links in the different sections are keyboard focusable"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : ": Testing the accessibility of a webpage: Checking that the links in the different sections are keyboard focusable"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.19041"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "74b51d4f77803440",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598367038632,
+        "stop" : 1598367038634,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e14b52f5fe25e0f2.json",
+  "parameterValues" : [ "Chrome-10.0.19041" ]
+}

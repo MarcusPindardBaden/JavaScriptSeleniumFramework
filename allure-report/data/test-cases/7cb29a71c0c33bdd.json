@@ -1,0 +1,56 @@
+{
+  "uid" : "7cb29a71c0c33bdd",
+  "name" : "And I click on a link for \"My Web My Way - What is accessibility? - BBC\"",
+  "fullName" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0.And I click on a link for \"My Web My Way - What is accessibility? - BBC\"",
+  "historyId" : "1b4f3d9bc87efd20f78038a5d9f20dfd",
+  "time" : {
+    "start" : 1599124920151,
+    "stop" : 1599124923267,
+    "duration" : 3116
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0"
+  }, {
+    "name" : "testClass",
+    "value" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on a link for \"My Web My Way - What is accessibility? - BBC\""
+  }, {
+    "name" : "package",
+    "value" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7cb29a71c0c33bdd.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,58 @@
+{
+  "uid" : "cfd7671b5fc7f297",
+  "name" : "And I click on a link for \"My Web My Way - What is accessibility? - BBC\"",
+  "fullName" : ": Testing the accessibility of a webpage: Checking that the links in the different sections are keyboard focusable.And I click on a link for \"My Web My Way - What is accessibility? - BBC\"",
+  "historyId" : "acfa4315d14a26099d606763af70004f",
+  "time" : {
+    "start" : 1598629304408,
+    "stop" : 1598629304413,
+    "duration" : 5
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "selector needs to be typeof `string` or `function`",
+  "statusTrace" : "Error: selector needs to be typeof `string` or `function`\n                    at Browser.findElement (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\webdriverio\\build\\utils\\index.js:225:9)\n                    at Browser.$ (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\webdriverio\\build\\commands\\browser\\$.js:19:40)\n                    at Browser.wrapCommandFn (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:54:17)\n                    at Object.waitForDisplay (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\Cucumber_Test\\Page-Objects\\googleSearch.js:19:37)\n                    at World.<anonymous> (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\Cucumber_Test\\Step-Definitions\\AccessibilitySteps.js:10:21)\n                    at World.executeAsync (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\@wdio\\utils\\build\\shim.js:123:21)\n                    at World.testFrameworkFnWrapper (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\@wdio\\utils\\build\\test-framework\\testFnWrapper.js:49:28)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Testing the accessibility of a webpage: Checking that the links in the different sections are keyboard focusable"
+  }, {
+    "name" : "testClass",
+    "value" : ": Testing the accessibility of a webpage: Checking that the links in the different sections are keyboard focusable"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on a link for \"My Web My Way - What is accessibility? - BBC\""
+  }, {
+    "name" : "package",
+    "value" : ": Testing the accessibility of a webpage: Checking that the links in the different sections are keyboard focusable"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cfd7671b5fc7f297.json",
+  "parameterValues" : [ "chrome" ]
+}

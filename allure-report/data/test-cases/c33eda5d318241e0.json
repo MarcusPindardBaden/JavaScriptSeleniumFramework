@@ -1,0 +1,56 @@
+{
+  "uid" : "c33eda5d318241e0",
+  "name" : "Given I have loaded Google",
+  "fullName" : ": Testing the accessibility of a webpage: Checking that the links in the different sections are keyboard focusable.Given I have loaded Google",
+  "historyId" : "e789863b358e0481af1f28c1da46c953",
+  "time" : {
+    "start" : 1599229543533,
+    "stop" : 1599229543539,
+    "duration" : 6
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Testing the accessibility of a webpage: Checking that the links in the different sections are keyboard focusable"
+  }, {
+    "name" : "testClass",
+    "value" : ": Testing the accessibility of a webpage: Checking that the links in the different sections are keyboard focusable"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I have loaded Google"
+  }, {
+    "name" : "package",
+    "value" : ": Testing the accessibility of a webpage: Checking that the links in the different sections are keyboard focusable"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c33eda5d318241e0.json",
+  "parameterValues" : [ "chrome" ]
+}

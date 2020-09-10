@@ -58,8 +58,10 @@ exports.config = {
         // 5 instances get started at a time.
         //
         {
-        browserName: 'chrome',
-        acceptInsecureCerts: true,
+            browserName: 'chrome',
+            // 'goog:chromeOptions': {
+            //     args: ['--headless','--disable-gpu'],
+            // },
         },
         // {
         // browserName: 'firefox',
@@ -128,8 +130,8 @@ exports.config = {
     // Services take over a specific job you don't want to take care of. They enhance
     // your test setup with almost no effort. Unlike plugins, they don't add new
     // commands. Instead, they hook themselves up into the test process.
-    // services: ['chromedriver'],
-    services: ['docker'],
+    services: ['chromedriver'],
+    // services: ['docker'],
     // services: ['selenium-standalone'],
   
     // Framework you want to run your specs with.
@@ -206,9 +208,9 @@ exports.config = {
         // <boolean> fail if there are any undefined or pending steps
         strict: false,
         // <string> (expression) only execute the features or scenarios with tags matching the expression
-        // tagExpression: '@Count', 
+        tagExpression: '@accessibility', 
         // <number> timeout for step definitions
-        timeout: 60000,
+        timeout: 180000,
         // <boolean> Enable this config to treat undefined definitions as warnings.
         ignoreUndefinedDefinitions: false
     },

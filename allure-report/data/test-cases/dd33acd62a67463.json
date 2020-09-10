@@ -1,0 +1,58 @@
+{
+  "uid" : "dd33acd62a67463",
+  "name" : "Then there should only be \"10\" organic results for the \"frighteningly large spiders\"",
+  "fullName" : "Different counters on google search pages: User gets the same amount of actual results on every search.Then there should only be \"10\" organic results for the \"frighteningly large spiders\"",
+  "historyId" : "f1c9105421d439d05bba388e7fee1473",
+  "time" : {
+    "start" : 1598279699026,
+    "stop" : 1598279699092,
+    "duration" : 66
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "result.$(...).$ is not a function",
+  "statusTrace" : "TypeError: result.$(...).$ is not a function\n                    at Object.getOrganicList (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\Cucumber_Test\\Page-Objects\\googleSearch.js:45:47)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at World.<anonymous> (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\Cucumber_Test\\Step-Definitions\\CountingSteps.js:19:33)\n                    at World.executeAsync (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\@wdio\\utils\\build\\shim.js:123:12)\n                    at World.testFrameworkFnWrapper (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\@wdio\\utils\\build\\test-framework\\testFnWrapper.js:57:14)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then there should only be \"10\" organic results for the \"frighteningly large spiders\""
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dd33acd62a67463.json",
+  "parameterValues" : [ "chrome" ]
+}

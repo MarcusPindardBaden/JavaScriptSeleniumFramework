@@ -1,0 +1,58 @@
+{
+  "uid" : "11aa81fb3889f6ab",
+  "name" : "When I search for a \"accessibility bbc\"",
+  "fullName" : ": Testing the accessibility of a webpage: Checking that the links in the different sections are keyboard focusable.When I search for a \"accessibility bbc\"",
+  "historyId" : "b534d1f74e5d9f40bc27097e406232f1",
+  "time" : {
+    "start" : 1599142925437,
+    "stop" : 1599142931667,
+    "duration" : 6230
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element click intercepted: Element <input class=\"gLFyf gsfi\" maxlength=\"2048\" name=\"q\" type=\"text\" jsaction=\"paste:puy29d\" aria-autocomplete=\"both\" aria-haspopup=\"false\" autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" autofocus=\"\" role=\"combobox\" spellcheck=\"false\" title=\"Search\" value=\"\" aria-label=\"Search\" data-ved=\"0ahUKEwjJ7qXQl83rAhX56OAKHYQVCiEQ39UDCAY\"> is not clickable at point (623, 339). Other element would receive the click: <iframe src=\"https://consent.google.com?hl=en-GB&amp;origin=https://www.google.com&amp;continue=https://www.google.com/?gws_rd%3Dssl&amp;if=1&amp;m=0&amp;pc=s&amp;wp=-1&amp;gl=GB&amp;uxe=4421591\"></iframe>\n                  (Session info: chrome=85.0.4183.83)",
+  "statusTrace" : "element click intercepted: element click intercepted: Element <input class=\"gLFyf gsfi\" maxlength=\"2048\" name=\"q\" type=\"text\" jsaction=\"paste:puy29d\" aria-autocomplete=\"both\" aria-haspopup=\"false\" autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" autofocus=\"\" role=\"combobox\" spellcheck=\"false\" title=\"Search\" value=\"\" aria-label=\"Search\" data-ved=\"0ahUKEwjJ7qXQl83rAhX56OAKHYQVCiEQ39UDCAY\"> is not clickable at point (623, 339). Other element would receive the click: <iframe src=\"https://consent.google.com?hl=en-GB&amp;origin=https://www.google.com&amp;continue=https://www.google.com/?gws_rd%3Dssl&amp;if=1&amp;m=0&amp;pc=s&amp;wp=-1&amp;gl=GB&amp;uxe=4421591\"></iframe>\n                  (Session info: chrome=85.0.4183.83)\n                    at getErrorFromResponseBody (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\webdriver\\build\\utils.js:121:10)\n                    at WebDriverRequest._request (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\webdriver\\build\\request.js:149:56)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at Element.elementErrorHandlerCallbackFn (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\webdriverio\\build\\middlewares.js:21:24)\n                    at Element.elementErrorHandlerCallbackFn (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\webdriverio\\build\\middlewares.js:21:24)\n                    at Object.searching (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\Cucumber_Test\\Page-Objects\\googleSearch.js:10:9)\n                    at World.<anonymous> (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\Cucumber_Test\\Step-Definitions\\CountingSteps.js:12:9)\n                    at World.executeAsync (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\@wdio\\utils\\build\\shim.js:123:12)\n                    at World.testFrameworkFnWrapper (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\@wdio\\utils\\build\\test-framework\\testFnWrapper.js:57:14)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Testing the accessibility of a webpage: Checking that the links in the different sections are keyboard focusable"
+  }, {
+    "name" : "testClass",
+    "value" : ": Testing the accessibility of a webpage: Checking that the links in the different sections are keyboard focusable"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I search for a \"accessibility bbc\""
+  }, {
+    "name" : "package",
+    "value" : ": Testing the accessibility of a webpage: Checking that the links in the different sections are keyboard focusable"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "11aa81fb3889f6ab.json",
+  "parameterValues" : [ "chrome" ]
+}

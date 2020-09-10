@@ -1,0 +1,90 @@
+{
+  "uid" : "b7f6323e19f317fd",
+  "name" : "Given I have loaded Google",
+  "fullName" : "user loads google: user loads up google and searches for Selenium.Given I have loaded Google",
+  "historyId" : "d7eddb81c485595460a0b1cfd12ef4cf",
+  "time" : {
+    "start" : 1598350036425,
+    "stop" : 1598350036431,
+    "duration" : 6
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testClass",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I have loaded Google"
+  }, {
+    "name" : "package",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7cc9bd4a2921722f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598349812242,
+        "stop" : 1598349812248,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "b36de2c150718049",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598286000516,
+        "stop" : 1598286000523,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "96889a98bbbb6ced",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598279979795,
+        "stop" : 1598279979802,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "e80d8c69a521448c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598279687584,
+        "stop" : 1598279687590,
+        "duration" : 6
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b7f6323e19f317fd.json",
+  "parameterValues" : [ "chrome" ]
+}

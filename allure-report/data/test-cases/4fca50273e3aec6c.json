@@ -1,0 +1,377 @@
+{
+  "uid" : "4fca50273e3aec6c",
+  "name" : "When I search for a \"accessibility bbc\"",
+  "fullName" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0.When I search for a \"accessibility bbc\"",
+  "historyId" : "43a7ff780b76f1f38db0d067dfcedc16",
+  "time" : {
+    "start" : 1599648488404,
+    "stop" : 1599648494755,
+    "duration" : 6351
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0"
+  }, {
+    "name" : "testClass",
+    "value" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I search for a \"accessibility bbc\""
+  }, {
+    "name" : "package",
+    "value" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9e259867038175c",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <input class=\"gLFyf gsfi\" maxlength=\"2048\" name=\"q\" type=\"text\" jsaction=\"paste:puy29d\" aria-autocomplete=\"both\" aria-haspopup=\"false\" autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" autofocus=\"\" role=\"combobox\" spellcheck=\"false\" title=\"Search\" value=\"\" aria-label=\"Search\" data-ved=\"0ahUKEwjz1PDt7dvrAhUFHxoKHc6DB70Q39UDCAY\"> is not clickable at point (623, 339). Other element would receive the click: <iframe src=\"https://consent.google.com?hl=en-GB&amp;origin=https://www.google.com&amp;continue=https://www.google.com/?gws_rd%3Dssl&amp;if=1&amp;m=0&amp;pc=s&amp;wp=-1&amp;gl=GB&amp;uxe=4421591\"></iframe>\n                  (Session info: chrome=85.0.4183.83)",
+      "time" : {
+        "start" : 1599647109483,
+        "stop" : 1599647115721,
+        "duration" : 6238
+      }
+    }, {
+      "uid" : "2b2fb217514888d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599647035481,
+        "stop" : 1599647040439,
+        "duration" : 4958
+      }
+    }, {
+      "uid" : "a465b202897bebd9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599646915071,
+        "stop" : 1599646920291,
+        "duration" : 5220
+      }
+    }, {
+      "uid" : "d1fbcdd39f807e47",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599646797791,
+        "stop" : 1599646802813,
+        "duration" : 5022
+      }
+    }, {
+      "uid" : "266d7aa67acfa254",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <input class=\"gLFyf gsfi\" maxlength=\"2048\" name=\"q\" type=\"text\" jsaction=\"paste:puy29d\" aria-autocomplete=\"both\" aria-haspopup=\"false\" autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" autofocus=\"\" role=\"combobox\" spellcheck=\"false\" title=\"Search\" value=\"\" aria-label=\"Search\" data-ved=\"0ahUKEwjOtvmN7NvrAhXmzIUKHUxqC1oQ39UDCAY\"> is not clickable at point (623, 339). Other element would receive the click: <iframe src=\"https://consent.google.com?hl=en-GB&amp;origin=https://www.google.com&amp;continue=https://www.google.com/?gws_rd%3Dssl&amp;if=1&amp;m=0&amp;pc=s&amp;wp=-1&amp;gl=GB&amp;uxe=4421591\"></iframe>\n                  (Session info: chrome=85.0.4183.83)",
+      "time" : {
+        "start" : 1599646639867,
+        "stop" : 1599646646094,
+        "duration" : 6227
+      }
+    }, {
+      "uid" : "76dce1e4e9589c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599646510119,
+        "stop" : 1599646517009,
+        "duration" : 6890
+      }
+    }, {
+      "uid" : "c75c2f1bef46394d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599573927271,
+        "stop" : 1599573932123,
+        "duration" : 4852
+      }
+    }, {
+      "uid" : "767dca97e9b6b69c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599573109684,
+        "stop" : 1599573114694,
+        "duration" : 5010
+      }
+    }, {
+      "uid" : "aa1cf10f6e3faee5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599573061375,
+        "stop" : 1599573066287,
+        "duration" : 4912
+      }
+    }, {
+      "uid" : "e7e9232a53efe0f9",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <input class=\"gLFyf gsfi\" maxlength=\"2048\" name=\"q\" type=\"text\" jsaction=\"paste:puy29d\" aria-autocomplete=\"both\" aria-haspopup=\"false\" autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" autofocus=\"\" role=\"combobox\" spellcheck=\"false\" title=\"Search\" value=\"\" aria-label=\"Search\" data-ved=\"0ahUKEwiw2L_42dnrAhUhx4UKHdaPARYQ39UDCAY\"> is not clickable at point (623, 339). Other element would receive the click: <iframe src=\"https://consent.google.com?hl=en-GB&amp;origin=https://www.google.com&amp;continue=https://www.google.com/?gws_rd%3Dssl&amp;if=1&amp;m=0&amp;pc=s&amp;wp=-1&amp;gl=GB&amp;uxe=4421591\"></iframe>\n                  (Session info: chrome=85.0.4183.83)",
+      "time" : {
+        "start" : 1599573043361,
+        "stop" : 1599573049595,
+        "duration" : 6234
+      }
+    }, {
+      "uid" : "5bd796f45b3498ac",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <input class=\"gLFyf gsfi\" maxlength=\"2048\" name=\"q\" type=\"text\" jsaction=\"paste:puy29d\" aria-autocomplete=\"both\" aria-haspopup=\"false\" autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" autofocus=\"\" role=\"combobox\" spellcheck=\"false\" title=\"Search\" value=\"\" aria-label=\"Search\" data-ved=\"0ahUKEwjMv5nB1tnrAhVQExoKHVVADOcQ39UDCAY\"> is not clickable at point (623, 339). Other element would receive the click: <iframe src=\"https://consent.google.com?hl=en-GB&amp;origin=https://www.google.com&amp;continue=https://www.google.com/?gws_rd%3Dssl&amp;if=1&amp;m=0&amp;pc=s&amp;wp=-1&amp;gl=GB&amp;uxe=4421591\"></iframe>\n                  (Session info: chrome=85.0.4183.83)",
+      "time" : {
+        "start" : 1599572122109,
+        "stop" : 1599572128351,
+        "duration" : 6242
+      }
+    }, {
+      "uid" : "c56c4d412a8d9b6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599572045898,
+        "stop" : 1599572050821,
+        "duration" : 4923
+      }
+    }, {
+      "uid" : "6b173942782c616f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599571820013,
+        "stop" : 1599571824927,
+        "duration" : 4914
+      }
+    }, {
+      "uid" : "f7cbe62d1e1a5283",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599571304087,
+        "stop" : 1599571308937,
+        "duration" : 4850
+      }
+    }, {
+      "uid" : "111ec8a1bb16e585",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599571268092,
+        "stop" : 1599571273608,
+        "duration" : 5516
+      }
+    }, {
+      "uid" : "280728f8a26492da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599564618494,
+        "stop" : 1599564623359,
+        "duration" : 4865
+      }
+    }, {
+      "uid" : "718a96716c8eae36",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <input class=\"gLFyf gsfi\" maxlength=\"2048\" name=\"q\" type=\"text\" jsaction=\"paste:puy29d\" aria-autocomplete=\"both\" aria-haspopup=\"false\" autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" autofocus=\"\" role=\"combobox\" spellcheck=\"false\" title=\"Search\" value=\"\" aria-label=\"Search\" data-ved=\"0ahUKEwiJqIu7utnrAhXStlkKHadRAFEQ39UDCAY\"> is not clickable at point (623, 339). Other element would receive the click: <iframe src=\"https://consent.google.com?hl=en-GB&amp;origin=https://www.google.com&amp;continue=https://www.google.com/?gws_rd%3Dssl&amp;if=1&amp;m=0&amp;pc=s&amp;wp=-1&amp;gl=GB&amp;uxe=4421591\"></iframe>\n                  (Session info: chrome=85.0.4183.83)",
+      "time" : {
+        "start" : 1599564592996,
+        "stop" : 1599564599554,
+        "duration" : 6558
+      }
+    }, {
+      "uid" : "665dab0541abb3d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599564545874,
+        "stop" : 1599564552300,
+        "duration" : 6426
+      }
+    }, {
+      "uid" : "69f461748468dac1",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <input class=\"gLFyf gsfi\" maxlength=\"2048\" name=\"q\" type=\"text\" jsaction=\"paste:puy29d\" aria-autocomplete=\"both\" aria-haspopup=\"false\" autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" autofocus=\"\" role=\"combobox\" spellcheck=\"false\" title=\"Search\" value=\"\" aria-label=\"Search\" data-ved=\"0ahUKEwjuo5GautnrAhXBx1kKHaqcD9gQ39UDCAY\"> is not clickable at point (623, 339). Other element would receive the click: <iframe src=\"https://consent.google.com?hl=en-GB&amp;origin=https://www.google.com&amp;continue=https://www.google.com/?gws_rd%3Dssl&amp;if=1&amp;m=0&amp;pc=s&amp;wp=-1&amp;gl=GB&amp;uxe=4421591\"></iframe>\n                  (Session info: chrome=85.0.4183.83)",
+      "time" : {
+        "start" : 1599564523885,
+        "stop" : 1599564530182,
+        "duration" : 6297
+      }
+    }, {
+      "uid" : "a5bf31ad00bfc0d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599563743184,
+        "stop" : 1599563748893,
+        "duration" : 5709
+      }
+    }, {
+      "uid" : "6969d1a85feb9819",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599494996496,
+        "stop" : 1599495002669,
+        "duration" : 6173
+      }
+    }, {
+      "uid" : "96a53ff639ed0ead",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599494899197,
+        "stop" : 1599494904145,
+        "duration" : 4948
+      }
+    }, {
+      "uid" : "3d0cfe91cc5f30d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599494811505,
+        "stop" : 1599494816483,
+        "duration" : 4978
+      }
+    }, {
+      "uid" : "8b83bc22ffca90df",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <input class=\"gLFyf gsfi\" maxlength=\"2048\" name=\"q\" type=\"text\" jsaction=\"paste:puy29d\" aria-autocomplete=\"both\" aria-haspopup=\"false\" autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" autofocus=\"\" role=\"combobox\" spellcheck=\"false\" title=\"Search\" value=\"\" aria-label=\"Search\" data-ved=\"0ahUKEwi8sZWdtdfrAhXNDmMBHZCaDEIQ39UDCAY\"> is not clickable at point (623, 339). Other element would receive the click: <iframe src=\"https://consent.google.com?hl=en-GB&amp;origin=https://www.google.com&amp;continue=https://www.google.com/?gws_rd%3Dssl&amp;if=1&amp;m=0&amp;pc=s&amp;wp=-1&amp;gl=GB&amp;uxe=4421591\"></iframe>\n                  (Session info: chrome=85.0.4183.83)",
+      "time" : {
+        "start" : 1599494468622,
+        "stop" : 1599494474864,
+        "duration" : 6242
+      }
+    }, {
+      "uid" : "66414e1d5ce56f64",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599491513197,
+        "stop" : 1599491518995,
+        "duration" : 5798
+      }
+    }, {
+      "uid" : "a39160546f59f7dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599490474597,
+        "stop" : 1599490479549,
+        "duration" : 4952
+      }
+    }, {
+      "uid" : "3a29b080d4c572c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599490399907,
+        "stop" : 1599490404975,
+        "duration" : 5068
+      }
+    }, {
+      "uid" : "5c4dc9f797eadd9a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599487948485,
+        "stop" : 1599487953903,
+        "duration" : 5418
+      }
+    }, {
+      "uid" : "cfe9c88a63f5e70f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599487908316,
+        "stop" : 1599487913874,
+        "duration" : 5558
+      }
+    }, {
+      "uid" : "23a53252df5b223c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599487776583,
+        "stop" : 1599487782476,
+        "duration" : 5893
+      }
+    }, {
+      "uid" : "2b0c6b5247a2030b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599487527087,
+        "stop" : 1599487532045,
+        "duration" : 4958
+      }
+    }, {
+      "uid" : "b31a7e0a47dc5b60",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599487476245,
+        "stop" : 1599487482316,
+        "duration" : 6071
+      }
+    }, {
+      "uid" : "bceae88db6efa7b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599487416818,
+        "stop" : 1599487422529,
+        "duration" : 5711
+      }
+    }, {
+      "uid" : "29ddf51703a229d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599487212726,
+        "stop" : 1599487218459,
+        "duration" : 5733
+      }
+    }, {
+      "uid" : "c559c952ac99e9f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599486520205,
+        "stop" : 1599486525624,
+        "duration" : 5419
+      }
+    }, {
+      "uid" : "78a5b9f1c22a56e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599233645143,
+        "stop" : 1599233650128,
+        "duration" : 4985
+      }
+    }, {
+      "uid" : "b0ff54eeee5e656c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599233457329,
+        "stop" : 1599233462271,
+        "duration" : 4942
+      }
+    }, {
+      "uid" : "72f4844784a24ded",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599233344796,
+        "stop" : 1599233349828,
+        "duration" : 5032
+      }
+    }, {
+      "uid" : "c298b52993f6efa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599232576326,
+        "stop" : 1599232582411,
+        "duration" : 6085
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4fca50273e3aec6c.json",
+  "parameterValues" : [ "chrome" ]
+}

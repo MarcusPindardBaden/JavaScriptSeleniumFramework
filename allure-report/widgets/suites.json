@@ -1,37 +1,59 @@
 {
-  "total" : 3,
+  "total" : 5,
   "items" : [ {
     "uid" : "45515c1392fca0779fb57e0e77d6b7bf",
     "name" : "user loads google: user loads up google and searches for Selenium",
     "statistic" : {
       "failed" : 2,
-      "broken" : 1,
-      "skipped" : 2,
-      "passed" : 18,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
       "unknown" : 0,
-      "total" : 23
+      "total" : 8
+    }
+  }, {
+    "uid" : "5f789d40dce8cc8b4d98b519e1d11847",
+    "name" : ": Testing the accessibility of a webpage: Checking that the links in the different sections are keyboard focusable",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 11
+    }
+  }, {
+    "uid" : "6c0f11bed0cdacf9f5f8ca2dce099eaa",
+    "name" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 11
     }
   }, {
     "uid" : "0c6552ee1825607e4130b7e8ddf1f721",
     "name" : "Different counters on google search pages: User gets the same amount of actual results on every search",
     "statistic" : {
       "failed" : 0,
-      "broken" : 1,
-      "skipped" : 10,
-      "passed" : 49,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 24,
       "unknown" : 0,
-      "total" : 60
+      "total" : 24
     }
   }, {
     "uid" : "18ce19f8d16ea0fa9b6bfbd9a9a98138",
     "name" : "Different counters on google search pages: User gets the same amount of tabs to go between on every search",
     "statistic" : {
       "failed" : 0,
-      "broken" : 1,
-      "skipped" : 4,
-      "passed" : 25,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 12,
       "unknown" : 0,
-      "total" : 30
+      "total" : 12
     }
   } ]
 }

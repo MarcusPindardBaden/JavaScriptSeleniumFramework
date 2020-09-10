@@ -1,0 +1,171 @@
+{
+  "uid" : "3047cbcb6dccdf7c",
+  "name" : "Then there should only be \"10\" organic results for the \"frighteningly large spiders\"",
+  "fullName" : "Different counters on google search pages: User gets the same amount of actual results on every search.Then there should only be \"10\" organic results for the \"frighteningly large spiders\"",
+  "historyId" : "f1c9105421d439d05bba388e7fee1473",
+  "time" : {
+    "start" : 1599040080745,
+    "stop" : 1599040082822,
+    "duration" : 2077
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then there should only be \"10\" organic results for the \"frighteningly large spiders\""
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "61d1035fc3ee48e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599039731873,
+        "stop" : 1599039733645,
+        "duration" : 1772
+      }
+    }, {
+      "uid" : "e3599109c919ee53",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599039136730,
+        "stop" : 1599039138623,
+        "duration" : 1893
+      }
+    }, {
+      "uid" : "b59ecac058751575",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599038905958,
+        "stop" : 1599038908103,
+        "duration" : 2145
+      }
+    }, {
+      "uid" : "b0c9bef668a18afa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599038824933,
+        "stop" : 1599038825941,
+        "duration" : 1008
+      }
+    }, {
+      "uid" : "5fb08ebbcaf18f45",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1599038422431,
+        "stop" : 1599038422431,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f9ea828ee2162315",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598954544903,
+        "stop" : 1598954546003,
+        "duration" : 1100
+      }
+    }, {
+      "uid" : "96dc49358c21c8e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598615139126,
+        "stop" : 1598615140129,
+        "duration" : 1003
+      }
+    }, {
+      "uid" : "ef17c0cac3e547ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598527900850,
+        "stop" : 1598527902711,
+        "duration" : 1861
+      }
+    }, {
+      "uid" : "83e185d41e582d78",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598350554786,
+        "stop" : 1598350556505,
+        "duration" : 1719
+      }
+    }, {
+      "uid" : "bfaa4b0fd7cadd8a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598350056789,
+        "stop" : 1598350058641,
+        "duration" : 1852
+      }
+    }, {
+      "uid" : "693e355f09eca357",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598349832584,
+        "stop" : 1598349834602,
+        "duration" : 2018
+      }
+    }, {
+      "uid" : "7f12c56a4d113979",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598286013886,
+        "stop" : 1598286015804,
+        "duration" : 1918
+      }
+    }, {
+      "uid" : "334058602fb3fa09",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598279992778,
+        "stop" : 1598279994742,
+        "duration" : 1964
+      }
+    }, {
+      "uid" : "dd33acd62a67463",
+      "status" : "broken",
+      "statusDetails" : "result.$(...).$ is not a function",
+      "time" : {
+        "start" : 1598279699026,
+        "stop" : 1598279699092,
+        "duration" : 66
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3047cbcb6dccdf7c.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,171 @@
+{
+  "uid" : "59622af4ec39551d",
+  "name" : "When I search for a \"adorable big dogs\"",
+  "fullName" : "Different counters on google search pages: User gets the same amount of actual results on every search.When I search for a \"adorable big dogs\"",
+  "historyId" : "51ff50cfddac856328f5617d1e780822",
+  "time" : {
+    "start" : 1599040067404,
+    "stop" : 1599040072953,
+    "duration" : 5549
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I search for a \"adorable big dogs\""
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6cc1b2bb1be6ae83",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599039719145,
+        "stop" : 1599039724758,
+        "duration" : 5613
+      }
+    }, {
+      "uid" : "26b65046f5757b4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599039123897,
+        "stop" : 1599039129388,
+        "duration" : 5491
+      }
+    }, {
+      "uid" : "362bf91a11472773",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599038892812,
+        "stop" : 1599038898539,
+        "duration" : 5727
+      }
+    }, {
+      "uid" : "fb5dc7e330ef25bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599038812260,
+        "stop" : 1599038818584,
+        "duration" : 6324
+      }
+    }, {
+      "uid" : "107b9618d926fb4f",
+      "status" : "broken",
+      "statusDetails" : "element (\"input[class = \"gLFyf gsfi\"]\") still not displayed after 10000ms",
+      "time" : {
+        "start" : 1599038398335,
+        "stop" : 1599038410386,
+        "duration" : 12051
+      }
+    }, {
+      "uid" : "7cb77894b0fc200a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598954532391,
+        "stop" : 1598954538722,
+        "duration" : 6331
+      }
+    }, {
+      "uid" : "75d4f981421ba949",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598615126334,
+        "stop" : 1598615132863,
+        "duration" : 6529
+      }
+    }, {
+      "uid" : "b87df45e30633a34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598527888014,
+        "stop" : 1598527893205,
+        "duration" : 5191
+      }
+    }, {
+      "uid" : "873fa3291ff16363",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598350541930,
+        "stop" : 1598350547573,
+        "duration" : 5643
+      }
+    }, {
+      "uid" : "ec454d29b34e4423",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598350036460,
+        "stop" : 1598350041134,
+        "duration" : 4674
+      }
+    }, {
+      "uid" : "8297309159fe556b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598349812247,
+        "stop" : 1598349816879,
+        "duration" : 4632
+      }
+    }, {
+      "uid" : "b3582c0ef57aa716",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598286000521,
+        "stop" : 1598286006398,
+        "duration" : 5877
+      }
+    }, {
+      "uid" : "577dc2c9a251d5a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598279979807,
+        "stop" : 1598279985470,
+        "duration" : 5663
+      }
+    }, {
+      "uid" : "44b7f59e9f201859",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598279687589,
+        "stop" : 1598279693394,
+        "duration" : 5805
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "59622af4ec39551d.json",
+  "parameterValues" : [ "chrome" ]
+}

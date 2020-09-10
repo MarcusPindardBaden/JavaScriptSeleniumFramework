@@ -1,0 +1,56 @@
+{
+  "uid" : "554ebd0e4991b05f",
+  "name" : "Then the number of accessibility violations on that page should be zero",
+  "fullName" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0.Then the number of accessibility violations on that page should be zero",
+  "historyId" : "923a44d4183ad31c8b518807ca88d253",
+  "time" : {
+    "start" : 1599061963657,
+    "stop" : 1599061963657,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0"
+  }, {
+    "name" : "testClass",
+    "value" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then the number of accessibility violations on that page should be zero"
+  }, {
+    "name" : "package",
+    "value" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "554ebd0e4991b05f.json",
+  "parameterValues" : [ "chrome" ]
+}

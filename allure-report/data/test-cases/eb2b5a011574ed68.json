@@ -1,0 +1,64 @@
+{
+  "uid" : "eb2b5a011574ed68",
+  "name" : "Then the first result is \"Selenium Foods: 20 Selenium-Rich Foods for Every Diet\"",
+  "fullName" : "user loads google: user loads up google and searches for Selenium.Then the first result is \"Selenium Foods: 20 Selenium-Rich Foods for Every Diet\"",
+  "historyId" : "e7800d3e7478fafadccae0cc0f723ec0",
+  "time" : {
+    "start" : 1598349942400,
+    "stop" : 1598349944433,
+    "duration" : 2033
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "'Selenium - Health Professional Fact Sheet' == 'Selenium Foods: 20 Selenium-Rich Foods for Every Diet'",
+  "statusTrace" : "AssertionError [ERR_ASSERTION]: 'Selenium - Health Professional Fact Sheet' == 'Selenium Foods: 20 Selenium-Rich Foods for Every Diet'\n                    at World.<anonymous> (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\Cucumber_Test\\Step-Definitions\\Test1Steps.js:26:16)\n                    at World.executeAsync (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\@wdio\\utils\\build\\shim.js:123:12)\n                    at World.testFrameworkFnWrapper (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\@wdio\\utils\\build\\test-framework\\testFnWrapper.js:57:14)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testClass",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then the first result is \"Selenium Foods: 20 Selenium-Rich Foods for Every Diet\""
+  }, {
+    "name" : "package",
+    "value" : "user loads google: user loads up google and searches for Selenium"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.19041"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "eb2b5a011574ed68.json",
+  "parameterValues" : [ "Chrome-10.0.19041" ]
+}

@@ -1,0 +1,171 @@
+{
+  "uid" : "f9464362cb4adc01",
+  "name" : "Then there should only be \"10\" organic results for the \"home\"",
+  "fullName" : "Different counters on google search pages: User gets the same amount of actual results on every search.Then there should only be \"10\" organic results for the \"home\"",
+  "historyId" : "6b695c1212a0a97fcf96684a738d9e6c",
+  "time" : {
+    "start" : 1599040095864,
+    "stop" : 1599040098008,
+    "duration" : 2144
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then there should only be \"10\" organic results for the \"home\""
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cb89368098b9afde",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599039746239,
+        "stop" : 1599039748290,
+        "duration" : 2051
+      }
+    }, {
+      "uid" : "cdde2f4b2314172e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599039151447,
+        "stop" : 1599039153395,
+        "duration" : 1948
+      }
+    }, {
+      "uid" : "1161b856e665a425",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599038920509,
+        "stop" : 1599038922124,
+        "duration" : 1615
+      }
+    }, {
+      "uid" : "5c1a01ae325ef4a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599038837734,
+        "stop" : 1599038838820,
+        "duration" : 1086
+      }
+    }, {
+      "uid" : "dcc504ea1e4483bc",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1599038446509,
+        "stop" : 1599038446509,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "75c662b90ad9ed26",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598954557597,
+        "stop" : 1598954558717,
+        "duration" : 1120
+      }
+    }, {
+      "uid" : "d27438970f4b0e22",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598615151533,
+        "stop" : 1598615152627,
+        "duration" : 1094
+      }
+    }, {
+      "uid" : "7d2d362aa9be64fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598527915973,
+        "stop" : 1598527917953,
+        "duration" : 1980
+      }
+    }, {
+      "uid" : "c60ed660ecc21a66",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598350569383,
+        "stop" : 1598350570703,
+        "duration" : 1320
+      }
+    }, {
+      "uid" : "90290f414178b094",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598350071522,
+        "stop" : 1598350073423,
+        "duration" : 1901
+      }
+    }, {
+      "uid" : "631652add89f6c57",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598349847286,
+        "stop" : 1598349848673,
+        "duration" : 1387
+      }
+    }, {
+      "uid" : "7b6ed66d61873784",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598286028715,
+        "stop" : 1598286030671,
+        "duration" : 1956
+      }
+    }, {
+      "uid" : "e192ddfc97300aca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598280007833,
+        "stop" : 1598280009563,
+        "duration" : 1730
+      }
+    }, {
+      "uid" : "aaa54af846b0233c",
+      "status" : "broken",
+      "statusDetails" : "result.$(...).$ is not a function",
+      "time" : {
+        "start" : 1598279710565,
+        "stop" : 1598279710628,
+        "duration" : 63
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f9464362cb4adc01.json",
+  "parameterValues" : [ "chrome" ]
+}

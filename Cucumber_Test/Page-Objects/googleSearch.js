@@ -94,6 +94,20 @@ module.exports =
         const hiddenList = await browser.$$(google.extraTabsList);
         const fullList = await visibleTabs.concat(hiddenList);
         return fullList.length;
+    },
+
+    async pickTheGooglePage(text)
+    {
+        const webList = await browser.$$(google.firstResult);
+        for(let element of webList)
+        {
+            await element.scrollIntoView();
+            if(await element.getText() == text)
+            {
+                element.click();
+                break;
+            }
+        }
     }
 
 }

@@ -1,62 +1,61 @@
-# version: '2'
-# services:
-#     webdriverio:
-#         image: huli/webdriverio:latest
-#         depends_on:
-#             - chrome
-#             - hub
-#         environment:
-#             - HUB_PORT_4444_TCP_ADDR=hub
-#             - HUB_PORT_4444_TCP_PORT=4444
-#         volumes:
-#             - C:\Users\marcu\Desktop\JavaScriptSeleniumFramework:/app
-
-#     hub:
-#         image: selenium/hub
-#         ports:
-#             - 4444:4444
-
-#     chrome:
-#         image: selenium/node-chrome
-#         ports:
-#             - 5900
-#         environment:
-#             - HUB_PORT_4444_TCP_ADDR=hub
-#             - HUB_PORT_4444_TCP_PORT=4444
-#         depends_on:
-#             - hub
-version: '2.1'
+version: '2'
 services:
-  selenium-hub:
-    image: 'selenium/hub:latest'
-    ports:
-      - '4444:4444'
-    environment:
-      SE_OPTS: '-timeout 10000 -browserTimeout 10000'
-      JAVA_OPTS: '-Xmx1024m'
-  selenium-chrome:
-    image: 'selenium/node-chrome-debug:latest'
-    ports:
-      - '5900:5900'
-    depends_on:
-      - selenium-hub
-    environment:
-      HUB_PORT_4444_TCP_ADDR: selenium-hub
-      HUB_PORT_4444_TCP_PORT: 4444
-    volumes:
-      - '/dev/shm:/dev/shm'
-  uitests:
-    image: <private_docker_image_path>${PIPELINE_SUFFIX}:${VERSION:-latest}
-    build:
-      context: .
-      Dockerfile: Dockerfile
-    environment:
-      - VERSION
-      - PIPELINE_SUFFIX
-    command: tail -f /dev/null
-    depends_on:
-      - selenium-chrome
-    volumes:
-      - './reports:/root/.npm/_logs'
-      - './reports:/opt/frontendapp/reports'
-      - './errorShots:/opt/frontendapp/errorShots'
+    webdriverio:
+        image: huli/webdriverio:latest
+        depends_on:
+            - chrome
+            - hub
+        environment:
+            - HUB_PORT_4444_TCP_ADDR=hub
+            - HUB_PORT_4444_TCP_PORT=4444
+        volumes:
+            - C:\Users\marcu\Desktop\JavaScriptSeleniumFramework\wdio.conf.js:\app
+
+    hub:
+        image: selenium/hub
+        ports:
+            - 4444:4444
+
+    chrome:
+        image: selenium/node-chrome
+        ports:
+            - 5900
+        environment:
+            - HUB_PORT_4444_TCP_ADDR=hub
+            - HUB_PORT_4444_TCP_PORT=4444
+        depends_on:
+            - hub
+# version: '2.1'
+# services:
+#   selenium-hub:
+#     image: 'selenium/hub:latest'
+#     ports:
+#       - '4444:4444'
+#     environment:
+#       SE_OPTS: '-timeout 10000 -browserTimeout 10000'
+#       JAVA_OPTS: '-Xmx1024m'
+#   selenium-chrome:
+#     image: 'selenium/node-chrome-debug:latest'
+#     ports:
+#       - '5900:5900'
+#     depends_on:
+#       - selenium-hub
+#     environment:
+#       HUB_PORT_4444_TCP_ADDR: selenium-hub
+#       HUB_PORT_4444_TCP_PORT: 4444
+#     volumes:
+#       - '/dev/shm:/dev/shm'
+#   uitests:
+#     image: <private_docker_image_path>${PIPELINE_SUFFIX}:${VERSION:-latest}
+#     build:
+#       context: .
+#     environment:
+#       - VERSION
+#       - PIPELINE_SUFFIX
+#     command: tail -f /dev/null
+#     depends_on:
+#       - selenium-chrome
+#     volumes:
+#       - './reports:/root/.npm/_logs'
+#       - './reports:/opt/frontendapp/reports'
+#       - './errorShots:/opt/frontendapp/errorShots'

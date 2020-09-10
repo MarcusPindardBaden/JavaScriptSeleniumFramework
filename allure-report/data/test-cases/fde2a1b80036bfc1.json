@@ -1,0 +1,171 @@
+{
+  "uid" : "fde2a1b80036bfc1",
+  "name" : "Then there should only be \"10\" organic results for the \"how far can you throw mud\"",
+  "fullName" : "Different counters on google search pages: User gets the same amount of actual results on every search.Then there should only be \"10\" organic results for the \"how far can you throw mud\"",
+  "historyId" : "a735eccfb29ca2542ad649b4bd0a0c8a",
+  "time" : {
+    "start" : 1599040088023,
+    "stop" : 1599040090130,
+    "duration" : 2107
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then there should only be \"10\" organic results for the \"how far can you throw mud\""
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "88388d8c5223a84b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599039738799,
+        "stop" : 1599039740609,
+        "duration" : 1810
+      }
+    }, {
+      "uid" : "e71562289f3f9002",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599039143868,
+        "stop" : 1599039145798,
+        "duration" : 1930
+      }
+    }, {
+      "uid" : "80dd77f73ca2e5ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599038913201,
+        "stop" : 1599038914704,
+        "duration" : 1503
+      }
+    }, {
+      "uid" : "5ac17ea8cb6786c5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599038831093,
+        "stop" : 1599038832122,
+        "duration" : 1029
+      }
+    }, {
+      "uid" : "2f3ff3bd2f25d4bc",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1599038434469,
+        "stop" : 1599038434470,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "e3c448e39b1c4078",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598954551065,
+        "stop" : 1598954552070,
+        "duration" : 1005
+      }
+    }, {
+      "uid" : "8887ee4e8926611d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598615145052,
+        "stop" : 1598615145813,
+        "duration" : 761
+      }
+    }, {
+      "uid" : "8d8dcb493ad16b10",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598527908118,
+        "stop" : 1598527909887,
+        "duration" : 1769
+      }
+    }, {
+      "uid" : "a719e4ed85e28902",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598350561669,
+        "stop" : 1598350562971,
+        "duration" : 1302
+      }
+    }, {
+      "uid" : "ccb95f06018f9ac9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598350064007,
+        "stop" : 1598350065642,
+        "duration" : 1635
+      }
+    }, {
+      "uid" : "89bdd43a1d514ad1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598349839978,
+        "stop" : 1598349841329,
+        "duration" : 1351
+      }
+    }, {
+      "uid" : "70b43f30ae8b25a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598286021087,
+        "stop" : 1598286022476,
+        "duration" : 1389
+      }
+    }, {
+      "uid" : "30dcf27935885dbf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598280000120,
+        "stop" : 1598280001872,
+        "duration" : 1752
+      }
+    }, {
+      "uid" : "105e6c501790239f",
+      "status" : "broken",
+      "statusDetails" : "result.$(...).$ is not a function",
+      "time" : {
+        "start" : 1598279704548,
+        "stop" : 1598279704612,
+        "duration" : 64
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fde2a1b80036bfc1.json",
+  "parameterValues" : [ "chrome" ]
+}

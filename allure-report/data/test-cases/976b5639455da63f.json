@@ -1,0 +1,58 @@
+{
+  "uid" : "976b5639455da63f",
+  "name" : "Then the number of accessibility violations on that page should be zero",
+  "fullName" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0.Then the number of accessibility violations on that page should be zero",
+  "historyId" : "923a44d4183ad31c8b518807ca88d253",
+  "time" : {
+    "start" : 1599563752180,
+    "stop" : 1599563754715,
+    "duration" : 2535
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "driver.switchTo is not a function",
+  "statusTrace" : "TypeError: driver.switchTo is not a function\n                    at module.exports (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\axe-webdriverio\\node_modules\\axe-webdriverjs\\lib\\inject.js:51:4)\n                    at C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\axe-webdriverio\\node_modules\\axe-webdriverjs\\lib\\index.js:128:3\n                    at AxeWebDriverIOBuilder.AxeBuilder.analyze (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\axe-webdriverio\\node_modules\\axe-webdriverjs\\lib\\index.js:127:9)\n                    at World.<anonymous> (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\Cucumber_Test\\Step-Definitions\\AccessibilitySteps.js:61:72)\n                    at World.executeSync (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\@wdio\\sync\\build\\index.js:56:18)\n                    at C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\@wdio\\sync\\build\\index.js:82:70",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0"
+  }, {
+    "name" : "testClass",
+    "value" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then the number of accessibility violations on that page should be zero"
+  }, {
+    "name" : "package",
+    "value" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "976b5639455da63f.json",
+  "parameterValues" : [ "chrome" ]
+}

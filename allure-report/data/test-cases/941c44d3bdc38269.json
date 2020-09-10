@@ -1,0 +1,170 @@
+{
+  "uid" : "941c44d3bdc38269",
+  "name" : "Given I have loaded Google",
+  "fullName" : "Different counters on google search pages: User gets the same amount of actual results on every search.Given I have loaded Google",
+  "historyId" : "a797440420b0ec5356a842609f777e9e",
+  "time" : {
+    "start" : 1598537834509,
+    "stop" : 1598537834510,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I have loaded Google"
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.19041"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "33fc1ad8039cd3c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598537828466,
+        "stop" : 1598537828467,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "8058c6f2e7acdabc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598537822991,
+        "stop" : 1598537822991,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "49a70d4989a0628d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598537817421,
+        "stop" : 1598537817423,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "a60f4be7167b3d0a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598537810732,
+        "stop" : 1598537810735,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "aa88ee0711c53301",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598350507152,
+        "stop" : 1598350507153,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "feabb458b23cdafd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598350501254,
+        "stop" : 1598350501255,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "c1d7083be504ca8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598350495084,
+        "stop" : 1598350495085,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "46ba57e6077ccc32",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598350435065,
+        "stop" : 1598350435066,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "8c143c5340d6036c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598350427931,
+        "stop" : 1598350427936,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "35e59da5bfa73b1a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598349959643,
+        "stop" : 1598349959644,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "557e321fced9b1fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598349953624,
+        "stop" : 1598349953625,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "8861379b1c115da4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598349948241,
+        "stop" : 1598349948241,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5a36069c71498171",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598349942773,
+        "stop" : 1598349942774,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "b74cbe688fcb9f08",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598349936884,
+        "stop" : 1598349936888,
+        "duration" : 4
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "941c44d3bdc38269.json",
+  "parameterValues" : [ "Chrome-10.0.19041" ]
+}

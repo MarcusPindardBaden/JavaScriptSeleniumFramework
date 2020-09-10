@@ -1,0 +1,74 @@
+{
+  "uid" : "86e38acee6c09480",
+  "name" : "When I search for a \"how far can you throw mud\"",
+  "fullName" : "Different counters on google search pages: User gets the same amount of actual results on every search.When I search for a \"how far can you throw mud\"",
+  "historyId" : "8baa8a32caf6bc0a1ab7dd70ce06e5da",
+  "time" : {
+    "start" : 1598537822991,
+    "stop" : 1598537828135,
+    "duration" : 5144
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testClass",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I search for a \"how far can you throw mud\""
+  }, {
+    "name" : "package",
+    "value" : "Different counters on google search pages: User gets the same amount of actual results on every search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.19041"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "77d3466db73d2e0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598350495085,
+        "stop" : 1598350500948,
+        "duration" : 5863
+      }
+    }, {
+      "uid" : "2bc69a705cb3e459",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598349948241,
+        "stop" : 1598349953277,
+        "duration" : 5036
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "86e38acee6c09480.json",
+  "parameterValues" : [ "Chrome-10.0.19041" ]
+}
