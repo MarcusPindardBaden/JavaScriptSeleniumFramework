@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1599750831500' stop='1599750843103'>
+    <name>: Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0</name>
+    <title>: Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0</title>
+    <test-cases>
+        <test-case start='1599750831501' status='passed' stop='1599750831503'>
+            <name>Hook</name>
+            <title>Hook</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1599750831503' status='passed' stop='1599750831516'>
+            <name>Given I have loaded Google</name>
+            <title>Given I have loaded Google</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1599750831516' status='passed' stop='1599750836386'>
+            <name>When I search for a "accessibility bbc"</name>
+            <title>When I search for a "accessibility bbc"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1599750836386' status='passed' stop='1599750839667'>
+            <name>And I click on a link for "My Web My Way - What is accessibility? - BBC"</name>
+            <title>And I click on a link for "My Web My Way - What is accessibility? - BBC"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1599750839667' status='failed' stop='1599750843102'>
+            <name>Then the number of accessibility violations on that page should be zero</name>
+            <title>Then the number of accessibility violations on that page should be zero</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>[object Object],[object Object],[object Object],[object Object]</message>
+                <stack-trace>AssertionError [ERR_ASSERTION]: [object Object],[object Object],[object Object],[object Object]
+                    at World.&lt;anonymous> (C:\Users\marcu\Desktop\JavaScriptSeleniumFramework\Cucumber_Test\Step-Definitions\AccessibilitySteps.js:93:9)
+                    at World.executeSync (C:\Users\marcu\Desktop\JavaScriptSeleniumFramework\node_modules\@wdio\sync\build\index.js:56:18)
+                    at C:\Users\marcu\Desktop\JavaScriptSeleniumFramework\node_modules\@wdio\sync\build\index.js:82:70</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1599750843103' status='passed' stop='1599750843103'>
+            <name>Hook</name>
+            <title>Hook</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

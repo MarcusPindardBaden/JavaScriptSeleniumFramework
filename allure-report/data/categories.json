@@ -4,104 +4,23 @@
   "children" : [ {
     "name" : "Product defects",
     "children" : [ {
-      "name" : "'Selenium - Health Professional Fact Sheet' == 'Selenium Foods: 20 Selenium-Rich Foods for Every Diet'",
+      "name" : "[object Object],[object Object],[object Object],[object Object]",
       "children" : [ {
-        "name" : "Then the first result is \"Selenium Foods: 20 Selenium-Rich Foods for Every Diet\"",
-        "uid" : "eb2b5a011574ed68",
-        "parentUid" : "7ba18091a6aa7ada252fbe5a4c26a2bb",
+        "name" : "Then the number of accessibility violations on that page should be zero",
+        "uid" : "7d5439a6f8d9575c",
+        "parentUid" : "616e3aea2c484dfbdf2eb30aca47b909",
         "status" : "failed",
         "time" : {
-          "start" : 1598349942400,
-          "stop" : 1598349944433,
-          "duration" : 2033
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "Chrome-10.0.19041" ]
-      }, {
-        "name" : "Then the first result is \"Selenium Foods: 20 Selenium-Rich Foods for Every Diet\"",
-        "uid" : "894042dabbfee33c",
-        "parentUid" : "7ba18091a6aa7ada252fbe5a4c26a2bb",
-        "status" : "failed",
-        "time" : {
-          "start" : 1598350040693,
-          "stop" : 1598350042777,
-          "duration" : 2084
+          "start" : 1599747823561,
+          "stop" : 1599747826929,
+          "duration" : 3368
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "chrome" ]
       } ],
-      "uid" : "7ba18091a6aa7ada252fbe5a4c26a2bb"
+      "uid" : "616e3aea2c484dfbdf2eb30aca47b909"
     } ],
     "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
-  }, {
-    "name" : "Test defects",
-    "children" : [ {
-      "name" : "Step \"Then the links a certain \"Best practice\" section should be keyboard accessible\" is not definedYou can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
-      "children" : [ {
-        "name" : "Then the links a certain \"Best practice\" section should be keyboard accessible",
-        "uid" : "5e06c35517df4b4",
-        "parentUid" : "df6f504f5498af5d22b8a5d62183dd58",
-        "status" : "broken",
-        "time" : {
-          "start" : 1598367044656,
-          "stop" : 1598367044656,
-          "duration" : 0
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "Chrome-10.0.19041" ]
-      } ],
-      "uid" : "df6f504f5498af5d22b8a5d62183dd58"
-    }, {
-      "name" : "Step \"And I click on a link for \"My Web My Way - What is accessibility? - BBC\"\" is not definedYou can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
-      "children" : [ {
-        "name" : "And I click on a link for \"My Web My Way - What is accessibility? - BBC\"",
-        "uid" : "7a6c40dca788afda",
-        "parentUid" : "21927a942a351245c5350d4fa70e25e0",
-        "status" : "broken",
-        "time" : {
-          "start" : 1598367044656,
-          "stop" : 1598367044656,
-          "duration" : 0
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "Chrome-10.0.19041" ]
-      }, {
-        "name" : "And I click on a link for \"My Web My Way - What is accessibility? - BBC\"",
-        "uid" : "abe49bf0dd697714",
-        "parentUid" : "21927a942a351245c5350d4fa70e25e0",
-        "status" : "broken",
-        "time" : {
-          "start" : 1598367049558,
-          "stop" : 1598367049558,
-          "duration" : 0
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "Chrome-10.0.19041" ]
-      } ],
-      "uid" : "21927a942a351245c5350d4fa70e25e0"
-    }, {
-      "name" : "Step \"Then the number of accessibility violations on that page should be zero\" is not definedYou can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
-      "children" : [ {
-        "name" : "Then the number of accessibility violations on that page should be zero",
-        "uid" : "87b80ff17dad1142",
-        "parentUid" : "c15ac234924e3cbf85c222f5013512ce",
-        "status" : "broken",
-        "time" : {
-          "start" : 1598367049560,
-          "stop" : 1598367049560,
-          "duration" : 0
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "Chrome-10.0.19041" ]
-      } ],
-      "uid" : "c15ac234924e3cbf85c222f5013512ce"
-    } ],
-    "uid" : "bdbf199525818fae7a8651db9eafe741"
   } ]
 }

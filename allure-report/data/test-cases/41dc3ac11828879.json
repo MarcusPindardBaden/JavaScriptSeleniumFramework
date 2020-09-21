@@ -1,0 +1,91 @@
+{
+  "uid" : "41dc3ac11828879",
+  "name" : "And I click on a link for \"My Web My Way - What is accessibility? - BBC\"",
+  "fullName" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0.And I click on a link for \"My Web My Way - What is accessibility? - BBC\"",
+  "historyId" : "1b4f3d9bc87efd20f78038a5d9f20dfd",
+  "time" : {
+    "start" : 1599747820270,
+    "stop" : 1599747823561,
+    "duration" : 3291
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0"
+  }, {
+    "name" : "testClass",
+    "value" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on a link for \"My Web My Way - What is accessibility? - BBC\""
+  }, {
+    "name" : "package",
+    "value" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2953f0d2379b3c21",
+      "status" : "broken",
+      "statusDetails" : "element (\"[class =\"LC20lb DKV0Md\"]\") still not displayed after 10000ms",
+      "time" : {
+        "start" : 1599747791329,
+        "stop" : 1599747801364,
+        "duration" : 10035
+      }
+    }, {
+      "uid" : "610e12f84f863d2a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599738747489,
+        "stop" : 1599738750770,
+        "duration" : 3281
+      }
+    }, {
+      "uid" : "9d9d6747bacdc020",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1599738733039,
+        "stop" : 1599738733040,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "835443468e33f6ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599668245469,
+        "stop" : 1599668248761,
+        "duration" : 3292
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "41dc3ac11828879.json",
+  "parameterValues" : [ "chrome" ]
+}

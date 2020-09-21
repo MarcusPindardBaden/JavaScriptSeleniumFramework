@@ -1,0 +1,109 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1599747785434' stop='1599747801366'>
+    <name>: Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0</name>
+    <title>: Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0</title>
+    <test-cases>
+        <test-case start='1599747785435' status='passed' stop='1599747785437'>
+            <name>Hook</name>
+            <title>Hook</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1599747785437' status='passed' stop='1599747785445'>
+            <name>Given I have loaded Google</name>
+            <title>Given I have loaded Google</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1599747785450' status='passed' stop='1599747791329'>
+            <name>When I search for a "accessibility bbc"</name>
+            <title>When I search for a "accessibility bbc"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1599747791329' status='broken' stop='1599747801364'>
+            <name>And I click on a link for "My Web My Way - What is accessibility? - BBC"</name>
+            <title>And I click on a link for "My Web My Way - What is accessibility? - BBC"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>element ("[class ="LC20lb DKV0Md"]") still not displayed after 10000ms</message>
+                <stack-trace>Error: element ("[class ="LC20lb DKV0Md"]") still not displayed after 10000ms
+                    at C:\Users\marcu\Desktop\JavaScriptSeleniumFramework\node_modules\webdriverio\build\commands\browser\waitUntil.js:34:15
+                    at Element.elementErrorHandlerCallbackFn (C:\Users\marcu\Desktop\JavaScriptSeleniumFramework\node_modules\webdriverio\build\middlewares.js:21:24)
+                    at Element.runCommandWithHooks (C:\Users\marcu\Desktop\JavaScriptSeleniumFramework\node_modules\@wdio\sync\build\wrapCommand.js:88:21)
+                    at Element.runCommandWithHooks (C:\Users\marcu\Desktop\JavaScriptSeleniumFramework\node_modules\@wdio\sync\build\wrapCommand.js:82:22)
+                    at Element.wrapCommandFn (C:\Users\marcu\Desktop\JavaScriptSeleniumFramework\node_modules\@wdio\sync\build\wrapCommand.js:59:40)
+                    at Element.elementErrorHandlerCallback (C:\Users\marcu\Desktop\JavaScriptSeleniumFramework\node_modules\webdriverio\build\middlewares.js:40:8)
+                    at Element.waitForDisplayed (C:\Users\marcu\Desktop\JavaScriptSeleniumFramework\node_modules\webdriverio\build\commands\element\waitForDisplayed.js:14:15)
+                    at Element.wrapCommandFn (C:\Users\marcu\Desktop\JavaScriptSeleniumFramework\node_modules\@wdio\sync\build\wrapCommand.js:54:17)
+                    at Element.elementErrorHandlerCallbackFn (C:\Users\marcu\Desktop\JavaScriptSeleniumFramework\node_modules\webdriverio\build\middlewares.js:21:57)
+                    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+                    at Object.waitForDisplay (C:\Users\marcu\Desktop\JavaScriptSeleniumFramework\Cucumber_Test\Page-Objects\googleSearch.js:20:23)
+                    at World.&lt;anonymous> (C:\Users\marcu\Desktop\JavaScriptSeleniumFramework\Cucumber_Test\Step-Definitions\AccessibilitySteps.js:15:9)
+                    at World.executeAsync (C:\Users\marcu\Desktop\JavaScriptSeleniumFramework\node_modules\@wdio\utils\build\shim.js:123:12)
+                    at World.testFrameworkFnWrapper (C:\Users\marcu\Desktop\JavaScriptSeleniumFramework\node_modules\@wdio\utils\build\test-framework\testFnWrapper.js:57:14)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1599747801364' status='pending' stop='1599747801364'>
+            <name>Then the number of accessibility violations on that page should be zero</name>
+            <title>Then the number of accessibility violations on that page should be zero</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1599747801365' status='passed' stop='1599747801365'>
+            <name>Hook</name>
+            <title>Hook</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

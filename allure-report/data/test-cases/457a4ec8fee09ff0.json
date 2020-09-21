@@ -1,0 +1,90 @@
+{
+  "uid" : "457a4ec8fee09ff0",
+  "name" : "Given I have loaded Google",
+  "fullName" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0.Given I have loaded Google",
+  "historyId" : "3185bed5cbecb9819aa4735f84a380e5",
+  "time" : {
+    "start" : 1599747815389,
+    "stop" : 1599747815401,
+    "duration" : 12
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0"
+  }, {
+    "name" : "testClass",
+    "value" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I have loaded Google"
+  }, {
+    "name" : "package",
+    "value" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "67667e851b8ec881",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599747785437,
+        "stop" : 1599747785445,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "2244b837e48ac299",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599738742573,
+        "stop" : 1599738742585,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "c2c5db390ecf377a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599738726773,
+        "stop" : 1599738726785,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "bcb45b0853a1d304",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599668240524,
+        "stop" : 1599668240537,
+        "duration" : 13
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "457a4ec8fee09ff0.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,98 @@
+{
+  "uid" : "7d5439a6f8d9575c",
+  "name" : "Then the number of accessibility violations on that page should be zero",
+  "fullName" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0.Then the number of accessibility violations on that page should be zero",
+  "historyId" : "923a44d4183ad31c8b518807ca88d253",
+  "time" : {
+    "start" : 1599747823561,
+    "stop" : 1599747826929,
+    "duration" : 3368
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "[object Object],[object Object],[object Object],[object Object]",
+  "statusTrace" : "AssertionError [ERR_ASSERTION]: [object Object],[object Object],[object Object],[object Object]\n                    at World.<anonymous> (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\Cucumber_Test\\Step-Definitions\\AccessibilitySteps.js:48:9)\n                    at World.executeSync (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\@wdio\\sync\\build\\index.js:56:18)\n                    at C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\@wdio\\sync\\build\\index.js:82:70",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0"
+  }, {
+    "name" : "testClass",
+    "value" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then the number of accessibility violations on that page should be zero"
+  }, {
+    "name" : "package",
+    "value" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "64f9425eb5218317",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1599747801364,
+        "stop" : 1599747801364,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8b6dc2b4f0211d19",
+      "status" : "failed",
+      "statusDetails" : "there are 4 violations",
+      "time" : {
+        "start" : 1599738750770,
+        "stop" : 1599738754196,
+        "duration" : 3426
+      }
+    }, {
+      "uid" : "782a8737477b32b0",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1599738733040,
+        "stop" : 1599738733040,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d459c1b8669d61",
+      "status" : "failed",
+      "statusDetails" : "there are violations",
+      "time" : {
+        "start" : 1599668248762,
+        "stop" : 1599668252188,
+        "duration" : 3426
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "7d5439a6f8d9575c.json",
+  "parameterValues" : [ "chrome" ]
+}

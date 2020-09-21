@@ -1,0 +1,91 @@
+{
+  "uid" : "53262da9a19472f6",
+  "name" : "When I search for a \"accessibility bbc\"",
+  "fullName" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0.When I search for a \"accessibility bbc\"",
+  "historyId" : "43a7ff780b76f1f38db0d067dfcedc16",
+  "time" : {
+    "start" : 1599747815401,
+    "stop" : 1599747820270,
+    "duration" : 4869
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0"
+  }, {
+    "name" : "testClass",
+    "value" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I search for a \"accessibility bbc\""
+  }, {
+    "name" : "package",
+    "value" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bb9d24649041dce0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599747785450,
+        "stop" : 1599747791329,
+        "duration" : 5879
+      }
+    }, {
+      "uid" : "eb0f9f4ed5fede92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599738742586,
+        "stop" : 1599738747489,
+        "duration" : 4903
+      }
+    }, {
+      "uid" : "cd5f6d6bb4fdf59f",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <input class=\"gLFyf gsfi\" maxlength=\"2048\" name=\"q\" type=\"text\" jsaction=\"paste:puy29d\" aria-autocomplete=\"both\" aria-haspopup=\"false\" autocapitalize=\"off\" autocomplete=\"off\" autocorrect=\"off\" autofocus=\"\" role=\"combobox\" spellcheck=\"false\" title=\"Search\" value=\"\" aria-label=\"Search\" data-ved=\"0ahUKEwip85OVw97rAhVHzoUKHcq9BFgQ39UDCAY\"> is not clickable at point (623, 339). Other element would receive the click: <iframe src=\"https://consent.google.com?hl=en-GB&amp;origin=https://www.google.com&amp;continue=https://www.google.com/?gws_rd%3Dssl&amp;if=1&amp;m=0&amp;pc=s&amp;wp=-1&amp;gl=GB&amp;uxe=4421591\"></iframe>\n                  (Session info: chrome=85.0.4183.83)",
+      "time" : {
+        "start" : 1599738726785,
+        "stop" : 1599738733039,
+        "duration" : 6254
+      }
+    }, {
+      "uid" : "fdf79920a1dc0948",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599668240537,
+        "stop" : 1599668245469,
+        "duration" : 4932
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "53262da9a19472f6.json",
+  "parameterValues" : [ "chrome" ]
+}

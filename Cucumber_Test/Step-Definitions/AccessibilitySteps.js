@@ -45,5 +45,7 @@ const axeSource = require('axe-core').source;
 
         });
         // assert there are no violations on the page
-        assert(results.violations.length == 0, "there are "+results.violations.length+" violations");
+        console.log(testArray);
+        console.log(testArray.toString());
+        assert(results.violations.length == 0, testArray);
     })

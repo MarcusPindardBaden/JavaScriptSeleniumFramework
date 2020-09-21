@@ -1,0 +1,58 @@
+{
+  "uid" : "2953f0d2379b3c21",
+  "name" : "And I click on a link for \"My Web My Way - What is accessibility? - BBC\"",
+  "fullName" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0.And I click on a link for \"My Web My Way - What is accessibility? - BBC\"",
+  "historyId" : "1b4f3d9bc87efd20f78038a5d9f20dfd",
+  "time" : {
+    "start" : 1599747791329,
+    "stop" : 1599747801364,
+    "duration" : 10035
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element (\"[class =\"LC20lb DKV0Md\"]\") still not displayed after 10000ms",
+  "statusTrace" : "Error: element (\"[class =\"LC20lb DKV0Md\"]\") still not displayed after 10000ms\n                    at C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\webdriverio\\build\\commands\\browser\\waitUntil.js:34:15\n                    at Element.elementErrorHandlerCallbackFn (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\webdriverio\\build\\middlewares.js:21:24)\n                    at Element.runCommandWithHooks (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:88:21)\n                    at Element.runCommandWithHooks (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:82:22)\n                    at Element.wrapCommandFn (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:59:40)\n                    at Element.elementErrorHandlerCallback (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\webdriverio\\build\\middlewares.js:40:8)\n                    at Element.waitForDisplayed (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\webdriverio\\build\\commands\\element\\waitForDisplayed.js:14:15)\n                    at Element.wrapCommandFn (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:54:17)\n                    at Element.elementErrorHandlerCallbackFn (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\webdriverio\\build\\middlewares.js:21:57)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at Object.waitForDisplay (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\Cucumber_Test\\Page-Objects\\googleSearch.js:20:23)\n                    at World.<anonymous> (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\Cucumber_Test\\Step-Definitions\\AccessibilitySteps.js:15:9)\n                    at World.executeAsync (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\@wdio\\utils\\build\\shim.js:123:12)\n                    at World.testFrameworkFnWrapper (C:\\Users\\marcu\\Desktop\\JavaScriptSeleniumFramework\\node_modules\\@wdio\\utils\\build\\test-framework\\testFnWrapper.js:57:14)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0"
+  }, {
+    "name" : "testClass",
+    "value" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on a link for \"My Web My Way - What is accessibility? - BBC\""
+  }, {
+    "name" : "package",
+    "value" : ": Testing the accessibility of a webpage: Making sure the number of accessibility violations is 0"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2953f0d2379b3c21.json",
+  "parameterValues" : [ "chrome" ]
+}
